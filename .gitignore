@@ -1,1 +1,6 @@
+# ignore temporary files
 *~
+
+# ignore .eps assets
+*.eps
+
