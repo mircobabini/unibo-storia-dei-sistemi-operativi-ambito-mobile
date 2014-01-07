@@ -187,8 +187,10 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\noindent
+\align center
 \begin_inset Graphics
-	filename /home/mirkolofio/Desktop/corto.jpg
+	filename assets/eves-wireless.jpg
 	width 100text%
 
 \end_inset
@@ -543,7 +545,7 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename /home/mirkolofio/Desktop/pegasus-logo.gif
+	filename assets/pegasus-logo.gif
 	width 50text%
 
 \end_inset
@@ -1742,19 +1744,42 @@ Middleware
 \end_layout
 
 \begin_layout Standard
-Queste applicazioni vengono abitualmente rilasciate attraverso il amrket
- ufficiale denominato Google Play, ma non è il solo metodo di publicazione;
- queste infatti posso essere fornite anche nel formato installabile .apk,
- a patto che sul dispositivo ospite sia stata abilitata un’opzione particolare
- per consentire l’installazione da fonti non certificate.
- Esistono anche numerosi marketplace alternativi come l’Amazon Appstore,
- il Samsung Apps, Slide ME e il multi-piattafrma GetJar.
+Queste applicazioni vengono abitualmente rilasciate attraverso il market
+ ufficiale denominato 
+\emph on
+Google Play
+\emph default
+, ma non è il solo metodo di publicazione; queste infatti posso essere fornite
+ anche nel formato installabile .apk, a patto che sul dispositivo ospite
+ sia stata abilitata una particolare opzione per consentire l’installazione
+ da fonti non certificate.
+ Esistono anche numerosi marketplace alternativi come l’
+\emph on
+Amazon Appstore
+\emph default
+, il 
+\emph on
+Samsung Apps
+\emph default
+, 
+\emph on
+il meno noto Slide ME
+\emph default
+ e il multi-piattafrma 
+\emph on
+GetJar
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
-Analogamente a quanto avviene su dispositivi iOS, l’esperienza utente è
- agevolata da un’interfaccia di manipolazione diretta degli oggetti sullo
- chermo, la quale supporta molte delle azioni tipiche del mondo reale.
+Analogamente a quanto avviene su dispositivi 
+\emph on
+iOS
+\emph default
+, l’esperienza utente è agevolata da un’interfaccia di manipolazione diretta
+ degli oggetti sullo schermo, la quale supporta molte delle azioni tipiche
+ del mondo reale.
  A supporto di queste azioni intervengono alle volte alcuni device hardware
  integrati come l’accelerometro, il giroscopio, sensori di prossimità e,
  recentemente, il barometro.
@@ -1762,25 +1787,90 @@ Analogamente a quanto avviene su dispositivi iOS, l’esperienza utente è
 
 \begin_layout Standard
 A dimostrazione della grande personalizzabilità di questo sistema operativo,
- vale la pena menzionare tre interessanti categorie: - i derivati di Android,
- quali ad esempio Fire OS di Amazon e Aliyun OS dell’Alibaba Group, sistemi
- operativi ereditati e sviluppati sulla base in licenza libera di Android
- - le applicazioni come TouchWiz e HTC Sense le quali vanno a sostituire
- buona parte delle applicazioni e/o dell’interfaccia classica fornita abitualmen
-te dalle versioni standard del sistema e che, talvolta, vengono addirittura
- pre-integrate da alcuni produttori (come appunto HTC) - gli “aftermarket
- firmwares”, come la Cyanogenmod, versioni particolari del sistema spesso
- provviste di software di terze parti a supporto di funzionalità e opzioni
- non ufficiali (ossia non riscontrabili sui firmware ufficialmente distribuiti
- dai venditori usuali).
+ vale la pena menzionare tre interessanti categorie:
+\end_layout
+
+\begin_layout Itemize
+I derivati di 
+\emph on
+Android
+\emph default
+, quali ad esempio 
+\emph on
+Fire OS
+\emph default
+ di 
+\emph on
+Amazon
+\emph default
+ e 
+\emph on
+Aliyun OS
+\emph default
+ dell’
+\emph on
+Alibaba Group
+\emph default
+, sistemi operativi ereditati e sviluppati sulla base in licenza libera
+ di 
+\emph on
+Android
+\end_layout
+
+\begin_layout Itemize
+Le applicazioni come 
+\emph on
+TouchWiz
+\emph default
+ e 
+\emph on
+HTC Sense
+\emph default
+ le quali vanno a sostituire buona parte delle applicazioni e/o dell’interfaccia
+ classica fornita abitualmente dalle versioni standard del sistema e che,
+ talvolta, vengono addirittura pre-integrate da alcuni produttori (come
+ appunto 
+\emph on
+HTC
+\emph default
+)
+\end_layout
+
+\begin_layout Itemize
+Gli 
+\emph on
+aftermarket firmwares
+\emph default
+, come la 
+\emph on
+Cyanogenmod
+\emph default
+, versioni particolari del sistema spesso provviste di software di terze
+ parti a supporto di funzionalità e opzioni non ufficiali (ossia non riscontrabi
+li sui firmware ufficialmente distribuiti dai venditori usuali)
 \end_layout
 
 \begin_layout Standard
-Con due colossi del genere alle spalle, rispettivamente Apple e Google,
- c’erano tutte le condizioni per una corsa al monopolio senza precedenti,
+Con due colossi del genere alle spalle, rispettivamente 
+\emph on
+Apple
+\emph default
+ e 
+\emph on
+Google
+\emph default
+, c’erano tutte le condizioni per una corsa al monopolio senza precedenti,
  corsa che continua ancora oggi rilascio dopo rilascio, feature dopo feature,
- non senza qualche aspro contenzioso sui diritti che mette amanti della
- mela e di BigG gli uni contro gli altri.
+ non senza qualche aspro contenzioso sui diritti che mettono amanti della
+ 
+\emph on
+mela
+\emph default
+ e di 
+\emph on
+BigG
+\emph default
+ gli uni contro gli altri sempre più frequentemente.
  
 \end_layout
 
@@ -1789,26 +1879,87 @@ Con due colossi del genere alle spalle, rispettivamente Apple e Google,
 \end_layout
 
 \begin_layout Standard
-Nei primissimi del 2009 a Sunnyvale in California, la Palm, Inc.
- era pronta per il primo rilascio RTP (Release to Manufacturing), a cui
- segue il rilascio al pubblico avvenuto tra Giugno e Luglio dello stesso
- anno, di un sistema per smartphones denominato WebOS, in seguito rinominato
- in Palm Web OS.
+Nei primissimi del 2009 a Sunnyvale in California, 
+\emph on
+la Palm, Inc.
+
+\emph default
+ era pronta per il primo rilascio 
+\emph on
+RTP
+\emph default
+ (
+\emph on
+Release to Manufacturing
+\emph default
+), a cui è seguito il rilascio al pubblico avvenuto tra Giugno e Luglio
+ dello stesso anno, di un sistema per smartphones denominato 
+\emph on
+WebOS
+\emph default
+, in seguito rinominato in 
+\emph on
+Palm WebOS
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
 Varie versioni di questo sistema sono state utilizzate da molti device prima
- in casa Palm dalla versione 1.x.x alla 2.x.x, come il Pre e il Pixi, poi in
- casa HP dalla versione 3.0.x, con il table HP TouchPad dopo l’acquisizione
- della prima da parte di quest’ultima, avvenuta l’1 Luglio del 2010.
+ in casa 
+\emph on
+Palm
+\emph default
+ dalla versione 1.x.x alla 2.x.x, come il 
+\emph on
+Pre
+\emph default
+ e il 
+\emph on
+Pixi
+\emph default
+, poi in casa HP dalla versione 3.0.x, con il tablet 
+\emph on
+HP TouchPad
+\emph default
+ dopo l’acquisizione della prima da parte di quest’ultima, avvenuta l’1
+ Luglio del 2010.
 \end_layout
 
 \begin_layout Standard
-Ad oggi, dopo l’ennesima acquisizione del sistema da parte di LG Electronics
- (Febbraio 2013), lo sviluppo è orientato alle Smart TVs di casa LG, la
- quale non esclude comunque un possibile rilascio di Web OS (ancora una
- volta rinominato, questa volta in webOS e rilasciato open-source da HP
- dopo l’abbandono del progetto TouchPag) per smartphones.
+Ad oggi, dopo l’ennesima acquisizione del sistema da parte di 
+\emph on
+LG Electronics
+\emph default
+ (Febbraio 2013), lo sviluppo è orientato alle 
+\emph on
+Smart TVs
+\emph default
+ di casa 
+\emph on
+LG
+\emph default
+, la quale non esclude comunque un possibile rilascio di 
+\emph on
+WebOS
+\emph default
+ (ancora una volta rinominato, questa volta in 
+\emph on
+webOS
+\emph default
+ e rilasciato open-source da 
+\emph on
+HP
+\emph default
+ dopo l’abbandono del progetto 
+\emph on
+TouchPad
+\emph default
+) per 
+\emph on
+smartphones
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
@@ -2019,7 +2170,7 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename ipad.png
+	filename assets/ipad.png
 	width 100text%
 
 \end_inset
@@ -2087,7 +2238,7 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename 393px-Windows_Phone_7_Timeline.svg.png
+	filename assets/393px-Windows_Phone_7_Timeline.svg.png
 	lyxscale 50
 	width 40text%
 
@@ -2815,7 +2966,7 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename io7_share.png
+	filename assets/io7_share.png
 	width 35text%
 
 \end_inset
@@ -2871,7 +3022,7 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename apple_icons.jpg
+	filename assets/apple_icons.jpg
 	lyxscale 35
 	width 35text%
 
@@ -2989,7 +3140,7 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename appstore_popular_screen.jpg
+	filename assets/appstore_popular_screen.jpg
 	width 35text%
 
 \end_inset
