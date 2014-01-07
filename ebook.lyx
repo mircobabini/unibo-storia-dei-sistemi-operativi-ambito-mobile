@@ -62,7 +62,7 @@
 \begin_body
 
 \begin_layout Title
-La storia dei sistemi operativi in ambito mobile
+Storia dei sistemi operativi in ambito mobile
 \end_layout
 
 \begin_layout Author
@@ -70,7 +70,7 @@ Mirco Babini
 \end_layout
 
 \begin_layout Date
-25 dicembre 2013
+7 Gennaio 2013
 \end_layout
 
 \begin_layout Standard
@@ -325,7 +325,7 @@ solamente
 \end_layout
 
 \begin_layout Subsection
-Il panorama e l'ecosistema
+Il panorama e l'ecosistema mobile
 \end_layout
 
 \begin_layout Standard
@@ -2073,7 +2073,7 @@ Dai Mobile Phones a Tablets e Docking Stations (PC/tablet)
 \end_layout
 
 \begin_layout Subsection
-2010
+2010 - Multitouch, Multitasking e Tablets
 \end_layout
 
 \begin_layout Paragraph
@@ -2082,20 +2082,53 @@ Android 2.1 Eclair - Multitouch
 
 \begin_layout Standard
 Come anticipato pocanzi la nuova e rivoluzionaria release del noto sistema
- operativo di casa Google, non si fa attendere a lugo.
- E’ il 12 Gennaio 2010 quando viene rilasciato Android 2.1, un aggiornamento
- denominato “minor platform release”, ma che porta con se un nuovo elemento
- tecnologico tutt’altro che “minore”: il supporto multitouch.
+ operativo di casa 
+\emph on
+Google
+\emph default
+, non si fa attendere a lugo.
+ È il 12 Gennaio 2010 quando viene rilasciato 
+\emph on
+Android 2.1
+\emph default
+, un aggiornamento denominato “minor platform release”, ma che porta con
+ se un nuovo elemento tecnologico tutt’altro che “minore”: il supporto multitouc
+h.
 \end_layout
 
 \begin_layout Standard
 In un primo periodo questo supporto era utilizzato da pochissime applicazioni
- tra cui Dolphin Browser, un browser proprietario per Android e iOS della
- MoboTap, Inc., una delle prime alternative al Browser integrato su Android
+ tra cui 
+\emph on
+Dolphin Browser
+\emph default
+, un browser proprietario per 
+\emph on
+Android
+\emph default
+ e 
+\emph on
+iOS
+\emph default
+ della 
+\emph on
+MoboTap, Inc
+\emph default
+., una delle prime alternative al browser integrato su 
+\emph on
+Android
+\emph default
  diffusosi proprio grazie a questo suo essere all’avanguardia anche con
- il multi-touch e per il suo elevatissimo supporto ad HTML5 (nel Maggio
- del 2012 viene riconosciuto come il browser mobile con il miglior supporto
- ad HTML5).
+ il multitouch e per il suo estremamente esteso supporto ad 
+\emph on
+HTML5
+\emph default
+ (nel Maggio del 2012 viene riconosciuto come il browser mobile con il miglior
+ supporto ad 
+\emph on
+HTML5
+\emph default
+).
 \end_layout
 
 \begin_layout Paragraph
@@ -2103,23 +2136,61 @@ Android 2.2 Froyo - Tethering, Hotspot, Flash e App2SD
 \end_layout
 
 \begin_layout Standard
-Il 20 Maggio 2010 viene rilasciata la successiva versione di Android, denominata
- Frozen Yogurt - brevemente Froyo.
- La base di questo sistema operativo era il Linux kernel 2.6.32 e le novità
+Il 20 Maggio 2010 viene rilasciata la successiva versione di 
+\emph on
+Android
+\emph default
+, denominata 
+\emph on
+Frozen Yogurt
+\emph default
+ - brevemente 
+\emph on
+Froyo
+\emph default
+.
+ La base di questo sistema operativo era il kernel Linux 2.6.32 e le novità
  che ha portato con se hanno sicuramente reso in maniera definitiva i dispositiv
-i Android dei coltellini svizzeri nel mondo dei dispositivi mobili.
+i 
+\emph on
+Android
+\emph default
+ dei coltellini svizzeri nel mondo dei dispositivi mobili.
  Aldilà delle ottimizzazioni per quanto riguarda le performance sia dal
  punto di vista della velocità che da quello della memoria, è fondamentale
  citare alcune novità in particolare:
 \end_layout
 
 \begin_layout Itemize
-L’applicazione Browser gode del V8 JavaScript engine di Chrome
+L’applicazione 
+\emph on
+Browser
+\emph default
+ gode del 
+\emph on
+V8 JavaScript engine
+\emph default
+ di 
+\emph on
+Chrome
 \end_layout
 
 \begin_layout Itemize
-Supporto all’Android Cloud to Device Messaging (C2DM) abilitante le notifiche
- Push
+Supporto all’
+\emph on
+Android Cloud
+\emph default
+ to 
+\emph on
+Device Messaging
+\emph default
+ (
+\emph on
+C2DM
+\emph default
+) abilitante le notifiche 
+\emph on
+Push
 \end_layout
 
 \begin_layout Itemize
@@ -2128,11 +2199,13 @@ USB Tethering e Wi-Fi Hotspot
 
 \begin_layout Itemize
 Supporto all’installazione delle applicazioni nella memoria espandibile
- (uSD)
+ (microSD)
 \end_layout
 
 \begin_layout Itemize
-Supporto ad Adobe Flash
+Supporto ad 
+\emph on
+Adobe Flash
 \end_layout
 
 \begin_layout Paragraph
@@ -2140,9 +2213,16 @@ Android 2.3 / 2.3.2 Gingerbread
 \end_layout
 
 \begin_layout Standard
-Il 6 Dicembre 2010 viene pubblicato il terzo e ultimo rilascio del 2010,
- per il sistema operativo di Google, denominato Gingerbread, basato sul
- Linux kernel 2.6.35.
+Il 6 Dicembre 2010 viene pubblicato il terzo e ultimo rilascio del 2010
+ per il sistema operativo di 
+\emph on
+Google
+\emph default
+, denominato 
+\emph on
+Gingerbread
+\emph default
+, basato sul kernel Linux 2.6.35.
  Le novità, sia software che hardware, ancora una volta sono assolutamente
  degne di nota:
 \end_layout
@@ -2152,7 +2232,11 @@ Supporto nativo a sensori aggiuntivi come giroscopio e barometro
 \end_layout
 
 \begin_layout Itemize
-File System ext4 sui device più moderni
+
+\emph on
+File System ext4
+\emph default
+ sui device più moderni
 \end_layout
 
 \begin_layout Itemize
@@ -2160,7 +2244,15 @@ Ottimizzazione audio/video sia a livello di codec che di potenzialità
 \end_layout
 
 \begin_layout Itemize
-Supporto alla tecnologia NFC (Near Field Communication)
+Supporto alla tecnologia 
+\emph on
+NFC
+\emph default
+ (
+\emph on
+Near Field Communication
+\emph default
+)
 \end_layout
 
 \begin_layout Itemize
@@ -2168,13 +2260,24 @@ Supporto per multi-fotocamera
 \end_layout
 
 \begin_layout Standard
-Sebbene Android abbia preso piede più tardi rispetto ad iOS, grazie alla
- possibilità di essere installato su una moltitudine veramente notevole
- di dispositivi e grazie alle grandissime novità e passi avanti fatti dal
- sistema operativo in quest’annata decisamente ottima, la diffusione e la
- curca di crescita di Android iniziava a preoccupare gli altri produttori
- di sistemi operativi per dispositivi mobile poiché tutto sembrava indicare
- con chiarezza chi fosse il prossimo leader del settore.
+Sebbene 
+\emph on
+Android
+\emph default
+ abbia preso piede più tardi rispetto ad 
+\emph on
+iOS
+\emph default
+, grazie alla possibilità di essere installato su una moltitudine veramente
+ notevole di dispositivi e grazie alle grandissime novità e passi avanti
+ fatti dal sistema operativo in quest’annata decisamente ottima, la diffusione
+ e la curva di crescita di 
+\emph on
+Android
+\emph default
+ iniziava a preoccupare gli altri produttori di sistemi operativi per dispositiv
+i mobile poiché tutto sembrava indicare con chiarezza chi sarebbe stato
+ il prossimo leader del settore.
 \end_layout
 
 \begin_layout Paragraph
@@ -2182,20 +2285,60 @@ iOS - Multitasking
 \end_layout
 
 \begin_layout Standard
-Un grande passo in avanti è stato fatto anche all’interno delle mura Apple
- e fornito al pubblico nel Giugno del 2010, quando con l’uscita di iOS 4
- anche i dispositivi iOS potevano godere del supporto multitasking, una
- funzionalità rivoluzionaria che allargava ulteriormente le vedute per quanto
- riguarda le possibilità d’utilizzo dei dispositivi portabili.
- Un paio di esempi eclatanti la possibilità di ascoltare musica (ad esempio
- con Pandora Internet Radio che permette la riproduzione di musica in streaming)
- mentre si compiono altre attività e la possibilità di effettuare telefonate
- VoIP con Skype mentre si utilizza un’altra app.
+Un grande passo in avanti è stato fatto anche all’interno delle mura 
+\emph on
+Apple
+\emph default
+ e fornito al pubblico nel Giugno del 2010, quando con l’uscita di 
+\emph on
+iOS 4
+\emph default
+ anche i dispositivi 
+\emph on
+iOS
+\emph default
+ potevano godere del supporto multitasking, una funzionalità rivoluzionaria
+ che allargava ulteriormente le vedute per quanto riguarda le possibilità
+ d’utilizzo dei dispositivi portabili.
+ Un paio di esempi eclatanti sono la possibilità di ascoltare musica (ad
+ esempio con 
+\emph on
+Pandora Internet Radio
+\emph default
+ che permette la riproduzione di musica in streaming) mentre si compiono
+ altre attività e la possibilità di effettuare telefonate 
+\emph on
+VoIP
+\emph default
+ con 
+\emph on
+Skype
+\emph default
+ mentre si utilizza un’altra app.
  Un’errore spesso comesso è quello di confondere il multitasking con quello
- che avviene effettuando una doppia pressione del tasto Home (sull’iPhone
- / iPad / iPod Touch), il quale scatena un’azione che permette di selezionare
- un’altra tra le applicazioni attive a cui passare; questa funzionalità
- è correttamente denominata fast app switching.
+ che avviene effettuando una doppia pressione del tasto 
+\emph on
+Home
+\emph default
+ (su 
+\emph on
+iPhone
+\emph default
+,
+\emph on
+ iPad
+\emph default
+ e 
+\emph on
+iPod Touch
+\emph default
+), il quale scatena un’azione che permette di selezionare un’altra tra le
+ app attive a cui passare; questa funzionalità è correttamente denominata
+ 
+\emph on
+fast app-switching
+\emph default
+.
  
 \end_layout
 
@@ -2204,31 +2347,75 @@ iOS - iPad Tablet
 \end_layout
 
 \begin_layout Standard
-Prima dell’ottimizzazione ad iOS nell’azienda di Cupertino bolliva in pentola
- un altro prodotto, l’iPad (First Generation), il Tablet riferimento degli
- ultimi anni.
+Prima dell’ottimizzazione ad 
+\emph on
+iOS
+\emph default
+ nell’azienda di Cupertino bolliva in pentola un altro prodotto, l’
+\emph on
+iPad (First Generation)
+\emph default
+, il tablet riferimento degli ultimi anni.
  Presentato il 27 Gennaio e rilasciato poco più di due mesi dopo (il 3 Aprile)
- negli Stati Uniti nella versione Wi-Fi e il 30 Aprile nella versione Wi-Fi
- + 3G, viene rilasciato in Italia e nel resto dell’Europa a fine Maggio
- 2010.
- Nei primi 80 giorni, la prima versione dell’iPad vende oltre tre milioni
- di esemplari, definitivamente acclamati dalla critica e dalla massa, nonostante
- la mancaza del supporto ad Adobe Flash.
+ negli Stati Uniti nella versione 
+\emph on
+Wi-Fi
+\emph default
+ e il 30 Aprile nella versione 
+\emph on
+Wi-Fi + 3G
+\emph default
+, viene rilasciato in Italia e nel resto dell’Europa a fine Maggio 2010.
+ Nei primi 80 giorni, la prima versione dell’
+\emph on
+iPad
+\emph default
+ vende oltre tre milioni di esemplari, definitivamente acclamati dalla critica
+ e dalla massa, nonostante la mancaza del supporto ad 
+\emph on
+Adobe Flash
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
 La più grande differenza con i modelli a seguire è l’assenza della fotocamera,
- mentre per il resto, nonostante le caratteristiche non siano delle migliori,
- non ha nulla da invidiare e rimane tutt’ora uno strumento comodissimo sia
- per studio che per lavoro.
+ mentre per il resto, nonostante le caratteristiche non siano delle migliori
+ fin dall'inizio, non ha molto da invidiare ai successori e rimane tutt’ora
+ uno strumento comodissimo sia per studio che per lavoro.
 \end_layout
 
 \begin_layout Standard
-Il processore, comprensivo di CPU da 1GHz, 256MB di RAM e GPU PowerVR SGX535,
- è un Apple A4, successivamente utilizzato anche per iPhone 4, iPod Touch
- 4 e Apple TV 2.
- L’ultima versione di iOS disponibile per questa prima versione del tablet
- è iOS 5.1.1, rilasciata il 7 Maggio 2012.
+Il processore, comprensivo di CPU da 1GHz, 256MB di RAM e GPU 
+\emph on
+PowerVR SGX535
+\emph default
+, è un 
+\emph on
+Apple A4
+\emph default
+, successivamente utilizzato anche per 
+\emph on
+iPhone 4
+\emph default
+, 
+\emph on
+iPod Touch 4
+\emph default
+ e 
+\emph on
+Apple TV 2
+\emph default
+.
+ L’ultima versione di 
+\emph on
+iOS
+\emph default
+ disponibile per questa prima versione del tablet è 
+\emph on
+iOS 5.1.1
+\emph default
+, rilasciata il 7 Maggio 2012.
  Inizialmente veniva venduto con iPhone OS 3.2.
 \end_layout
 
@@ -2277,25 +2464,86 @@ Windows Phone 7
 \end_layout
 
 \begin_layout Standard
-Il cambiamento più grande si è visto sicuramente in casa Microsoft con il
- passaggio dalla serie Windows Mobile alla diffusissima serie Windows Phone,
- con la presentazione del Windows Phone 7 al Mobile Congress il 15 Febbraio
- del 2010.
+Il cambiamento più grande si è visto sicuramente in casa 
+\emph on
+Microsoft
+\emph default
+ con il passaggio dalla serie 
+\emph on
+Windows Mobile
+\emph default
+ alla diffusissima serie 
+\emph on
+Windows Phone
+\emph default
+, con la presentazione del 
+\emph on
+Windows Phone 7
+\emph default
+ al 
+\emph on
+Mobile Congress
+\emph default
+ il 15 Febbraio del 2010.
  Questa versione introduce anzitutto una nuova interfaccia che segna drasticamen
 te un cambio di direzione per il sistema operativo che ha ben poco a che
  fare con le versioni precedenti e, soprattutto, è incompatibile con esse.
- Orientandosi nettamente verso il mercato consumer del singolo cliente finale
- anziché quello enterprise, sempre e comunque con un occhio di riguardo
- per le reti aziendali, sono state apportate alcune definitive migliorie
- necessarie per accedere ad un mercato di questo tipo, come ad esempio il
- supporto al multitouch e agli schermi capacitivi.
- Questa versione viene inoltre rilasciata con una versione di IE derivata
- da Internet Explorer 9 e la celeberrima suite Office denominata Mobile
- Office 2010, comprensiva di Word, Excel, Powerpoint e altri cavalli di
- battaglia di Microsoft.
+ Orientandosi nettamente verso il mercato 
+\emph on
+consumer
+\emph default
+ del singolo cliente finale anziché quello 
+\emph on
+enterprise
+\emph default
+, sempre e comunque con un occhio di riguardo per le reti aziendali, sono
+ state apportate alcune definitive migliorie necessarie per accedere ad
+ un mercato di questo tipo, come ad esempio il supporto al multitouch e
+ agli schermi capacitivi.
+ Questo rilascio viene inoltre fornito con una versione di 
+\emph on
+IE
+\emph default
+ derivata da 
+\emph on
+Internet Explorer 9
+\emph default
+ e la celeberrima suite Office denominata 
+\emph on
+Mobile Office 2010
+\emph default
+, comprensiva di 
+\emph on
+Word
+\emph default
+, 
+\emph on
+Excel
+\emph default
+, 
+\emph on
+Powerpoint
+\emph default
+ e altri cavalli di battaglia di 
+\emph on
+Microsoft
+\emph default
+.
  Sebbene negli USA il lancio sia stato effettuato solo in Novembre, in Europa
  la pubblicazione è stata effettuata in anticipo, ossia il 22 Ottobre 2010,
- con la messa in commercio dei primi modelli a marchio Samsung, LG e HTC.
+ con la messa in commercio dei primi modelli a marchio 
+\emph on
+Samsung
+\emph default
+, 
+\emph on
+LG
+\emph default
+ e 
+\emph on
+HTC
+\emph default
+.
  La versione definitiva del software era stata rilasciata il 16 Settembre
  2010.
 \end_layout
@@ -2347,93 +2595,302 @@ MeeGo e Bada
 
 \begin_layout Standard
 Nel Maggio del 2010 vedono la luce due sistemi operativi molto importanti
- per la famiglia dei sistemi operativi mobile Unix/Posix/Linux open-source;
- sono MeeGo e Bada, due sistemi operativi ormai dismessi per far spazio
- ad evoluzioni più promettenti.
+ per la famiglia dei sistemi operativi mobile 
+\emph on
+Unix/Posix/Linux
+\emph default
+ open-source; sono 
+\emph on
+MeeGo
+\emph default
+ e 
+\emph on
+Bada
+\emph default
+, due sistemi operativi ormai dismessi per far spazio ad evoluzioni più
+ promettenti.
  Analizzandoli nello specifico notiamo alcune sostanziali differenze e analogie
  che vale la pena mettere in evidenza.
 \end_layout
 
 \begin_layout Standard
-MeeGo, che in realtà ancora esiste nella sua derivazione denominata Mer,
- un middleware per sistemi operativi per smartphones Linux-based, è stato
- sviluppato pensando che potesse essere utilizzato su una moltitudine di
- dispositivi come netbooks, smartphones, tablets, embedded systems, communicatio
-n devices, smart tvs e persino in-car/in-vehicle infotainment devices.
+
+\emph on
+MeeGo
+\emph default
+, che in realtà ancora esiste nella sua derivazione denominata 
+\emph on
+Mer
+\emph default
+, un 
+\emph on
+middleware
+\emph default
+ per sistemi operativi per 
+\emph on
+smartphones
+\emph default
+ Linux-based, è stato sviluppato pensando che potesse essere utilizzato
+ su una moltitudine di dispositivi come 
+\emph on
+netbooks
+\emph default
+, 
+\emph on
+smartphones
+\emph default
+, 
+\emph on
+tablets
+\emph default
+, 
+\emph on
+embedded systems
+\emph default
+, 
+\emph on
+communication devices
+\emph default
+, 
+\emph on
+smart TVs
+\emph default
+ e persino 
+\emph on
+in-car/in-vehicle infotainment devices
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
-MeeGo è stato dismesso nel Settembre 2011 dalla Linux Foundation per concentrars
-i sullo sviluppo di Tizen ma, il suo successore Mer, verrà preso in carico
- da una nuova startup finlandese denominata Jolla, la quale ha dichiarato
- le proprie intenzioni (Luglio 2010) di sviluppare un nuovo sistema operativo
- denominato Sailfish OS, previsto per il 2012.
+
+\emph on
+MeeGo
+\emph default
+ è stato dismesso nel Settembre 2011 dalla 
+\emph on
+Linux Foundation
+\emph default
+ per concentrarsi sullo sviluppo di 
+\emph on
+Tizen
+\emph default
+; il suo successore 
+\emph on
+Mer
+\emph default
+, verrà preso in carico da una nuova startup finlandese denominata 
+\emph on
+Jolla
+\emph default
+, la quale ha dichiarato le proprie intenzioni (Luglio 2010) di sviluppare
+ un nuovo sistema operativo denominato 
+\emph on
+Sailfish OS
+\emph default
+, previsto per il 2012.
 \end_layout
 
 \begin_layout Standard
-Per quanto riguarda Bada (Samsung), invece, è stato sviluppato anche un
- market dedicato, il famoso Samsung Apps, che conta oltre 2400 applicazioni
- ed è ancora disponibile su dispositivi Samsung con Android, nonostante
- la cancellazione dello sviluppo del sistema operativo.
- Nonostante Bada sia stato un sistema fondamentale per la multinazionale
- sud koreana, MeeGo vede il supporto da parte di una moltitudine di aziende,
- tra cui spiccano Asus, Acer, AMD, Intel e Nokia.
+Per quanto riguarda 
+\emph on
+Bada
+\emph default
+ (
+\emph on
+Samsung
+\emph default
+), invece, è stato sviluppato anche un market dedicato, il famoso 
+\emph on
+Samsung Apps
+\emph default
+, che conta oltre 2400 applicazioni ed è ancora disponibile su dispositivi
+ 
+\emph on
+Samsung
+\emph default
+ con 
+\emph on
+Android
+\emph default
+, nonostante la cancellazione dello sviluppo del sistema operativo per cui
+ è nato.
+ Nonostante 
+\emph on
+Bada
+\emph default
+ sia stato un sistema fondamentale per la multinazionale sud koreana, 
+\emph on
+MeeGo
+\emph default
+ vede il supporto da parte di una moltitudine di aziende, tra cui spiccano
+ 
+\emph on
+Asus
+\emph default
+, 
+\emph on
+Acer
+\emph default
+, 
+\emph on
+AMD
+\emph default
+, 
+\emph on
+Intel
+\emph default
+ e 
+\emph on
+Nokia
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
-Architetturalmente parlando è interessante il fatto che MeeGo, basato su
- una distribuzione Linux derivata da Maemo (Nokia) e Moblin (Intel, basato
- su Fedora), sia stato uno tra i primi, nel panorama delle distribuzioni
- Linux, ad adottare il file system Btrfs; utilizza inoltre gli applicativi/repos
-itory in formato RPM.
+Architetturalmente parlando è interessante il fatto che 
+\emph on
+MeeGo
+\emph default
+, basato su una distribuzione Linux derivata da 
+\emph on
+Maemo
+\emph default
+ (
+\emph on
+Nokia
+\emph default
+) e 
+\emph on
+Moblin
+\emph default
+ (
+\emph on
+Intel
+\emph default
+, basato su 
+\emph on
+Fedora
+\emph default
+), sia stato uno tra i primi, nel panorama delle distribuzioni Linux, ad
+ adottare il file system 
+\emph on
+Btrfs
+\emph default
+; utilizza inoltre gli applicativi/repository in formato 
+\emph on
+RPM
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
-Invece Bada, definito più come una piattaforma a kernel configurabile, per
- via del fatto che ammette sia i kernel ibridi RTOS che il kernel Linux,
- utilizza codice derivato da FreeBSD, NetBSD e OpenBSD, non ha (aveva) niente
- da invidiare ai colleghi adottati sempre da Samsung, ossia Android e Windows
- Phone; infatti, su Bada 2.0, vediamo alcune funzionalità di spicco quali:
+Invece 
+\emph on
+Bada
+\emph default
+, definito più come una piattaforma a kernel configurabile, per via del
+ fatto che ammette sia i kernel ibridi 
+\emph on
+RTOS
+\emph default
+ che il kernel Linux, utilizza codice derivato da 
+\emph on
+FreeBSD
+\emph default
+, 
+\emph on
+NetBSD
+\emph default
+ e 
+\emph on
+OpenBSD
+\emph default
+ e non ha niente da invidiare ai colleghi adottati sempre da 
+\emph on
+Samsung
+\emph default
+, ossia 
+\emph on
+Android
+\emph default
+ e 
+\emph on
+Windows Phone
+\emph default
+; infatti, su 
+\emph on
+Bada 2.0
+\emph default
+, vediamo alcune funzionalità di spicco quali:
 \end_layout
 
 \begin_layout Itemize
-browser Dolphin
+Browser 
+\emph on
+Dolphin
 \end_layout
 
 \begin_layout Itemize
-multitasking
+Multitasking
 \end_layout
 
 \begin_layout Itemize
-supporto Adobe Flash lite
+Supporto 
+\emph on
+Adobe Flash lite
 \end_layout
 
 \begin_layout Itemize
-supporto HTML5 completo
+Supporto 
+\emph on
+HTML5
+\emph default
+ completo
 \end_layout
 
 \begin_layout Itemize
-tecnologia NFC
+Tecnologia 
+\emph on
+NFC
 \end_layout
 
 \begin_layout Itemize
-text-to-speech / speech-to-text
+Text-to-Speech / Speech-to-Text
 \end_layout
 
 \begin_layout Itemize
-Vlingo, comandi vocali
+
+\emph on
+Vlingo
+\emph default
+, comandi vocali
 \end_layout
 
 \begin_layout Standard
-Per favorire l’interazione, inoltre, Bada supporta una serie di meccanismi
- e sensori quali face detection, accelerometro, GPS, multitouch, magnetometro
- e molti altri.
- Infine, Samsung cessa il supporto a partire dal 25 Febbraio 2013, ancora
- una volta a favore del più promettente progetto Tizen.
+Per favorire l’interazione, inoltre, 
+\emph on
+Bada
+\emph default
+ supporta una serie di funzionalità e sensori quali 
+\emph on
+face detection
+\emph default
+, accelerometro, GPS, multitouch, magnetometro e molti altri.
+ Infine, 
+\emph on
+Samsung
+\emph default
+ cessa il supporto a partire dal 25 Febbraio 2013, ancora una volta a favore
+ del più promettente progetto 
+\emph on
+Tizen
+\emph default
+.
 \end_layout
 
 \begin_layout Subsection
-2011
+2011 - Maturazione ed evoluzione delle tecnologie
 \end_layout
 
 \begin_layout Paragraph
@@ -2442,13 +2899,37 @@ Android 3 per Tablets
 
 \begin_layout Standard
 Dopo alcuni importanti aggiornamenti alla serie 2.3.x nel Gennaio 2011, proseguiti
- a livello di supporto durante tutto l’anno con vari bug fixes e enhancements
- perlopiù dedicati alle serie Nexus e Samsung Galaxy, il 22 Gennaio 2011
- vede la luce una nuova versione di Android, la 3.0 Honeycomb; per la prima
- volta nella storia di Android si tratta di un rilascio dedicato unitamente
- ai tablet, quindi disponibile solo per questa tipologia di dispositivi.
- Il primo device ad ospitare questa nuova tecnologia è il Motorola XOOM,
- rilasciato due giorni dopo l’uscita del sistema operativo.
+ a livello di supporto durante tutto l’anno con vari bug fixes e 
+\emph on
+enhancements
+\emph default
+ perlopiù dedicati alle serie 
+\emph on
+Nexus
+\emph default
+ e 
+\emph on
+Samsung Galaxy
+\emph default
+, il 22 Gennaio 2011 vede la luce una nuova versione di 
+\emph on
+Android
+\emph default
+, la 
+\emph on
+3.0 Honeycomb
+\emph default
+; per la prima volta nella storia di 
+\emph on
+Android
+\emph default
+ si tratta di un rilascio dedicato unitamente ai tablet, quindi disponibile
+ solo per questa tipologia di dispositivi.
+ Il primo device ad ospitare questa nuova tecnologia è il 
+\emph on
+Motorola XOOM
+\emph default
+, rilasciato due giorni dopo l’uscita del sistema operativo.
 \end_layout
 
 \begin_layout Standard
@@ -2457,54 +2938,96 @@ Tra le più importanti modifiche, aggiunte e migliorie apportate vale la
 \end_layout
 
 \begin_layout Itemize
-interfaccia grafica ottimizzata e resa olografica
+Interfaccia grafica ottimizzata e resa olografica
 \end_layout
 
 \begin_layout Itemize
-aggiunta barra di sistema per l’accesso alle notifiche, visura dello stato
- del sistema e bottoni fisici replicati in versione soft
+Aggiunta barra di sistema per l’accesso alle notifiche, visura dello stato
+ del sistema e bottoni fisici replicati in versione 
+\emph on
+soft
 \end_layout
 
 \begin_layout Itemize
-semplificato il multitasking (in questo caso si intende il fast app-switching)
+Semplificato il 
+\emph on
+multitasking
+\emph default
+ (in questo caso si intende il fast app-switching)
 \end_layout
 
 \begin_layout Itemize
-UX rielaborata sulla base di un nuovo framework che ne semplifica anche
- lo sviluppo di app; migliorie soprattutto per quanto riguarda l’interfaccia
+
+\emph on
+UX
+\emph default
+ rielaborata sulla base di un nuovo framework che ne semplifica anche lo
+ sviluppo di app; migliorie soprattutto per quanto riguarda l’interfaccia
  copia/incolla, la tastiera virtuale, la navigazione nel browser, l’accesso
  alle fotocamere e alle loro impostazioni, la navigazione dei contatti e
  delle email
 \end_layout
 
 \begin_layout Itemize
-supporto alle video chat con Google Talk - supporto accelerazione hardware
- OpenGL con comportamento controllabile dallo sviluppatore per ogni livello
+Supporto alle video chat con 
+\emph on
+Google Talk
+\emph default
+ - supporto accelerazione hardware 
+\emph on
+OpenGL
+\emph default
+ con comportamento controllabile dallo sviluppatore per ogni livello
 \end_layout
 
 \begin_layout Itemize
-supporto ai processori multicore, per il quale è stato necessario applicare
- modifiche ad un moltidudine di elementi core, grazie alle quali tutte le
+Supporto ai processori multicore, per il quale è stato necessario applicare
+ modifiche ad un moltitudine di elementi core, grazie alle quali tutte le
  applicazione godranno del giovamento della ristrutturazione, anche quelle
- a singolo thread
-\end_layout
-
-\begin_layout Itemize
-nel caso “peggiore” il secondo core verrà utilizzato per il garbage collector
+ a singolo 
+\emph on
+thread; nel
+\emph default
+ caso peggiore il secondo 
+\emph on
+core
+\emph default
+ verrà utilizzato per il 
+\emph on
+garbage collector
 \end_layout
 
 \begin_layout Standard
-Come ogni aggiornamento di main-version che si rispetti, le aggiunte e le
- migliorie apportate sono sintomo di una costante corsa al supporto delle
- tecnologie più avanzate possibile per fornire esperienza utente, usabilità
- e funzionalità all’altezza di un colosse dell’informatica quale Google.
+Come ogni aggiornamento di 
+\emph on
+main version
+\emph default
+ che si rispetti, le aggiunte e le migliorie apportate sono sintomo di una
+ costante corsa al supporto delle tecnologie più avanzate possibile per
+ fornire esperienza utente, usabilità e funzionalità all’altezza di un colosso
+ dell’informatica quale 
+\emph on
+Google
+\emph default
+.
  Le versioni a seguire della serie 3.x e 3.2.x sono più che altro ottimizzazioni
- minori, bugfixing e supporti a device aggiuntivi e codecs:
+ minori, bug fixing e supporti a dispositivi aggiuntivi e codecs:
 \end_layout
 
 \begin_layout Itemize
-3.0, 3.1 - HTTPS con SNI (Server Name Indication) e supporto HTTP proxy per
- ogni access point Wi-Fi connesso
+3.0, 3.1 - 
+\emph on
+HTTPS
+\emph default
+ con 
+\emph on
+SNI
+\emph default
+ (
+\emph on
+Server Name Indication
+\emph default
+) e supporto HTTP proxy per ogni access point Wi-Fi connesso
 \end_layout
 
 \begin_layout Itemize
@@ -2522,73 +3045,138 @@ Android 4 per Tablets e Smartphones
 \end_layout
 
 \begin_layout Standard
-Il 19 Ottobre 2011 vede la luce la nuova versione di Android con interfaccia
- completamente rinnovata e evoluta, Android 4 Ice Cream Sandwich, basato
- sul kernel Linux 3.0.1, il cui codice verrà rilasciato poco meno di un mese
- più tardi.
+Il 19 Ottobre 2011 vede la luce la nuova versione di 
+\emph on
+Android
+\emph default
+ con interfaccia completamente rinnovata ed evoluta, 
+\emph on
+Android 4 Ice Cream Sandwich
+\emph default
+, basato sul kernel Linux 3.0.1, il cui codice verrà rilasciato quasi di un
+ mese più tardi.
  Ancora una volta, nel rispetto del discorso appena affrontato relativamente
- le nuove main-versions, vengono inserita in questa release una serie tutt’altro
- che trascurabile di nuove funzionalità:
+ agli aggiornamenti di 
+\emph on
+main versions
+\emph default
+, vengono inserite in questo rilascio una serie tutt’altro che trascurabile
+ di nuove funzionalità:
 \end_layout
 
 \begin_layout Itemize
-i bottoni soft disponibili sulla 3.x sono resi disponibili anche per la versione
- smartphone
+I bottoni 
+\emph on
+soft
+\emph default
+ disponibili sulla 3.x sono resi disponibili anche per la versione smartphone
 \end_layout
 
 \begin_layout Itemize
-semplicità nella creazione di cartella con un’azione di drag&drop (simil-iOS)
+Semplicità nella creazione di cartella con un’azione di 
+\emph on
+drag&drop
+\emph default
+ (
+\emph on
+simil-iOS
+\emph default
+)
 \end_layout
 
 \begin_layout Itemize
-screenshot integrato con un’azione contemporanea su più pulsanti (simil-iOS)
+Screenshot integrato con un’azione contemporanea su più pulsanti (
+\emph on
+simil-iOS
+\emph default
+)
 \end_layout
 
 \begin_layout Itemize
-Face Unlock, la funzionalità che permette lo sblocco del telefono grazie
- al riconoscimento del volto
+
+\emph on
+Face Unlock
+\emph default
+, la funzionalità che permette lo sblocco del telefono grazie al riconoscimento
+ del volto
 \end_layout
 
 \begin_layout Itemize
-Integrazione automatica e aggiornamento dei bookmarks in Chrome
+Integrazione automatica e aggiornamento dei bookmarks in 
+\emph on
+Chrome
 \end_layout
 
 \begin_layout Itemize
-Photo Editor integrato
+
+\emph on
+Photo Editor
+\emph default
+ integrato
 \end_layout
 
 \begin_layout Itemize
-Android Beam, funzionalità che grazie all’NFC permette lo scambio di informazion
-i tra devices, come ad esempio preferiti del browser, contatti e video di
- youtube
+
+\emph on
+Android Beam
+\emph default
+, funzionalità che grazie all’NFC permette lo scambio di informazioni tra
+ dispositivi, come ad esempio preferiti del browser, contatti e video di
+ 
+\emph on
+Youtube
 \end_layout
 
 \begin_layout Itemize
-Wi-Fi Direct, una tecnologia che permette la connessione tra più devices
- senza necessità di un access point wireless e che permette di comunicare
- alla velocità di una comune Wi-Fi
+
+\emph on
+Wi-Fi Direct
+\emph default
+, una tecnologia che permette la connessione tra più devices senza necessità
+ di un access point wireless e che permette di comunicare alla velocità
+ di una comune Wi-Fi
 \end_layout
 
 \begin_layout Standard
-In seguito, tra bug fixments e improvements minori, entro la fine dell’anno
- vengono pubblicate anche la 4.0.1, la 4.0.2 e la 4.0.3, rispettivamente il 21
- Ottobre, 28 Novembre e 16 Dicembre.
+In seguito, tra bug fixments e 
+\emph on
+improvements
+\emph default
+ minori, entro la fine dell’anno vengono pubblicate anche la 4.0.1, la 4.0.2
+ e la 4.0.3, rispettivamente il 21 Ottobre, 28 Novembre e 16 Dicembre.
 \end_layout
 
 \begin_layout Standard
-Lo scopo principe della quarta generazione del sistema operativo di Google
- per Tablets, Smartphones e Google TV era quello di rendere sempre più visibili
- e facilmente accessibili le azioni più comuni da parte degli utilizzatori
- finali, in modo da risultare in un’interfaccia gradevole, intuitiva e il
- più possibile usabile,
+Lo scopo principe della quarta generazione del sistema operativo di 
+\emph on
+Google
+\emph default
+ per tablets, smartphones e 
+\emph on
+Google TV
+\emph default
+ era quello di rendere sempre più visibili e comodamente accessibili le
+ azioni più comuni da parte degli utilizzatori finali, in modo da risultare
+ in un’interfaccia gradevole, intuitiva e il più possibile usabile.
 \end_layout
 
 \begin_layout Standard
-Un grande passo in avanti è stato fatto specialmente dalle schermate “Home”
- che, grazie ai widget personalizzabili, permettono non solo di creare collegame
-nti alle app più utilizzate e cartelle usate come contenitori logici di
- app, bensì consentono di inserire intere applicazioni live grazie a contenitori
- interattivi, i widget appunto., dai quali è possibile controllare la mail,
+Un grande passo in avanti è stato fatto specialmente dalle schermate 
+\emph on
+Home
+\emph default
+ che, grazie ai 
+\emph on
+widget
+\emph default
+ personalizzabili, permettono non solo di creare collegamenti alle app più
+ utilizzate e cartelle usate come contenitori logici di app, bensì consentono
+ di inserire intere applicazioni live grazie a contenitori interattivi,
+ i 
+\emph on
+widget
+\emph default
+ appunto, dai quali è possibile controllare la casella di posta elettronica,
  visionare il calendario, riprodurre la musica e controllare i social networks.
 \end_layout
 
@@ -2596,7 +3184,11 @@ nti alle app più utilizzate e cartelle usate come contenitori logici di
 Inoltre, grazie alle nuove azioni a schermo bloccato, è possibile accedere
  ad alcune tra le funzionalità più utilizzate (fotocamera, notifiche e gestione
  riproduzione se si sta ascoltando musica) senza dover necessariamente sbloccare
- il dispositivo (simil-iOS).
+ il dispositivo (
+\emph on
+simil-iOS
+\emph default
+).
 \end_layout
 
 \begin_layout Paragraph
@@ -2604,56 +3196,137 @@ iOS 5
 \end_layout
 
 \begin_layout Standard
-Il 12 Ottobre, verso la fine del 2011, viene rilasciato iOS5 a seguito dell’annu
-nciazione dello stesso avvenuta il 6 Giugno durante l’Apple Worldwide Developer
- Conference nella quale è stato presentato anche Max OS X Lion ed è stato
- annunciato iCloud, il noto servizio Cloud di Cupertino che verrà reso disponibi
-le appunto a partire da iOS5, consentendo di sincronizzare musica, immagini
- e video tra tutti i devices connessi.
+Il 12 Ottobre, verso la fine del 2011, viene rilasciato 
+\emph on
+iOS 5
+\emph default
+ a seguito dell’annunciazione dello stesso avvenuta il 6 Giugno durante
+ l’
+\emph on
+Apple Worldwide Developer
+\emph default
+ Conference nella quale è stato presentato anche 
+\emph on
+Max OS X Lion
+\emph default
+ ed è stato annunciato 
+\emph on
+iCloud
+\emph default
+, il noto servizio cloud di Cupertino che verrà reso disponibile appunto
+ a partire da 
+\emph on
+iOS 5
+\emph default
+, consentendo di sincronizzare musica, immagini e video tra tutti i dispositivi
+ connessi.
  La data di annunciazione del rilascio è il 4 Ottobre, durante un evento
- in cui veniva presentato l’iPhone 4S, che verrà pubblicato direttamente
- con iOS5 pre-installato, e l’esclusivo Siri, un app che permette di effettuare
- alcune azioni molto comuni direttamente utilizzando dei comandi vocali.
+ in cui veniva presentato l’
+\emph on
+iPhone 4S
+\emph default
+, che verrà pubblicato direttamente con 
+\emph on
+iOS 5
+\emph default
+ pre-installato, e l’esclusivo 
+\emph on
+Siri
+\emph default
+, un app che permette di effettuare alcune azioni molto comuni direttamente
+ utilizzando dei comandi vocali.
 \end_layout
 
 \begin_layout Standard
-Come già accaduto in passato nella storia delle release di iOS, con questa
- versione viene interrotto il supporto ad alcuni dispositivi quali l’iPhone
- 3G e l’iPod Touch (seconda generazione).
-\end_layout
-
-\begin_layout Standard
-Tra le principali novità e nuove features, le maggiormente degne di nota:
+Come già accaduto in passato nella storia delle release di 
+\emph on
+iOS
+\emph default
+, con questa versione viene interrotto il supporto ad alcuni dispositivi
+ quali l’
+\emph on
+iPhone 3G
+\emph default
+ e l’
+\emph on
+iPod Touch (seconda generazione)
+\emph default
+.
+ Tra le principali novità e nuove funzionalità, le maggiormente degne di
+ nota:
 \end_layout
 
 \begin_layout Itemize
-possibilità di sincronizzazione con iTunes in wireless, senza necessità
- di un collegamente fisico tra smartphone e computer
+Possibilità di sincronizzazione con 
+\emph on
+iTunes
+\emph default
+ in wireless, senza necessità di un collegamente fisico tra smartphone e
+ computer
 \end_layout
 
 \begin_layout Itemize
-massiccia integrazione con Twitter e possibilità di condividere stati e
- immagini direttamente dal’app Camera, da Safari, Youtube e Google Maps.
+Massiccia integrazione con 
+\emph on
+Twitter
+\emph default
+ e possibilità di condividere stati e immagini direttamente dal’app 
+\emph on
+Camera
+\emph default
+, da 
+\emph on
+Safari
+\emph default
+, 
+\emph on
+Youtube
+\emph default
+ e 
+\emph on
+Google Maps
 \end_layout
 
 \begin_layout Itemize
-Notification Center (simil-Android) al posto dei popup per le notifiche
- 
+
+\emph on
+Notification Center
+\emph default
+ (
+\emph on
+simil-Android
+\emph default
+) al posto dei popup per le notifiche 
 \end_layout
 
 \begin_layout Standard
 Purtroppo le cose belle non sempre arrivano senza qualche problema alle
  volte non trascurabile, come ad esempio i bug riguardanti la batteria che
- hanno reso ancor più critica la durata dei dispositivi mobili Apple, già
- noti per la loro pessima battery-life.
+ hanno reso ancor più critica la durata dei dispositivi mobili 
+\emph on
+Apple
+\emph default
+, già noti per la loro pessima 
+\emph on
+battery life
+\emph default
+.
  Alcuni bug segnalati riguardanti la SIM, la Wi-Fi e appunto la batteria
  non sono ancora stati risolti quando, a circa un mese di distanza dal lancio,
- viene rilasciata la prima update iOS 5.0.1.
+ viene rilasciata la prima update 
+\emph on
+iOS 5.0.1
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
 Nonostante alcuni inconvenienti la ricezione è stata ottima da parte degli
- estimatori della Apple.
+ estimatori della 
+\emph on
+Apple
+\emph default
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -2661,19 +3334,51 @@ Windows Phone 7.5
 \end_layout
 
 \begin_layout Standard
-A confronto dei due colossi, Android e iOS, Windows Phone (con la nuova
- nomenclatura) risulta essere un novellino nel panorama dei big dei sistemi
- operativi mobili, ma con tutt’altre intenzioni che quella di farsi da parte.
+
+\emph on
+Windows Phone
+\emph default
+ (con la nuova nomenclatura), a confronto dei due colossi quali 
+\emph on
+Android
+\emph default
+ e 
+\emph on
+iOS
+\emph default
+, risulta essere un novellino nel panorama dei sistemi operativi mobili,
+ ma con tutt’altre intenzioni che quella di farsi da parte.
 \end_layout
 
 \begin_layout Standard
-Ad appena un anno dall’annuncio di Windows Phone 7, Steve Ballmer annuncia
- al Mobile World Congress la prossima uscita di Windows Phone 7.5 (che internamen
-te veniva chiamano Windows Phone 7.1) prevista per il quarto trimestre dell’anno
- in corso.
+Ad appena un anno dall’annuncio di 
+\emph on
+Windows Phone 7
+\emph default
+, Steve Ballmer annuncia al 
+\emph on
+Mobile World Congress
+\emph default
+ la prossima uscita di 
+\emph on
+Windows Phone 7.5
+\emph default
+ (che internamente veniva chiamano 
+\emph on
+Windows Phone 7.1
+\emph default
+) prevista per il quarto trimestre dell’anno in corso.
  Il 27 Settembre 2011 inizia la diffusione del nuovo sistema operativo con
- nome in codice Mango e pochissme settimane a seguire viene pubblicato il
- primo smartphone con Windows phone 7.5 pre-installato.
+ nome in codice 
+\emph on
+Mango
+\emph default
+ e pochissme settimane a seguire viene pubblicato il primo smartphone con
+ 
+\emph on
+Windows Phone 7.5
+\emph default
+ preinstallato.
 \end_layout
 
 \begin_layout Standard
@@ -2689,23 +3394,55 @@ Messaging e Social Integration
 
 \begin_deeper
 \begin_layout Itemize
-People Hub supporta Twitter e Linkedin
+
+\emph on
+People Hub
+\emph default
+ supporta 
+\emph on
+Twitter
+\emph default
+ e 
+\emph on
+LinkedIn
 \end_layout
 
 \begin_layout Itemize
-Supporto ai Check-in con Facebook
+Supporto ai check-in con 
+\emph on
+Facebook
 \end_layout
 
 \begin_layout Itemize
-Le schede contatto sono un punto d’accesso globale a SMS, Email e Messenger
+Le schede contatto sono un punto d’accesso globale a 
+\emph on
+SMS
+\emph default
+, 
+\emph on
+Email
+\emph default
+ e 
+\emph on
+Messenger
 \end_layout
 
 \begin_layout Itemize
-Integrazione delle chat di Facebook e Windows Live Messenger
+Integrazione delle chat di 
+\emph on
+Facebook
+\emph default
+ e 
+\emph on
+Windows Live Messenger
 \end_layout
 
 \begin_layout Itemize
-Eventi di Facebook integrati nel calendario
+Eventi di 
+\emph on
+Facebook
+\emph default
+ integrati nel calendario
 \end_layout
 
 \begin_layout Itemize
@@ -2719,24 +3456,65 @@ Search e Office
 
 \begin_deeper
 \begin_layout Itemize
-Bing Vision (codici a barre, OCR, eccetera), Bing Audio/Music (riconoscimento
- musicale simil-Shazam), Bing Local Scout e Bing Quick Search (informazioni
- sui Punti di Interesse nelle vicinanze e dettagli su prodotti e recensioni),
- Bing Search e Bing Maps (navigazione vocale, ricerca per immagini e integrazion
-e con app di terze parti)
+
+\emph on
+Bing Vision
+\emph default
+ (codici a barre, OCR, eccetera), 
+\emph on
+Bing Audio/Music
+\emph default
+ (riconoscimento musicale 
+\emph on
+simil-Shazam
+\emph default
+), 
+\emph on
+Bing Local Scout
+\emph default
+ e 
+\emph on
+Bing Quick Search
+\emph default
+ (informazioni sui punti di interesse nelle vicinanze e dettagli su prodotti
+ e recensioni), 
+\emph on
+Bing Search
+\emph default
+ e 
+\emph on
+Bing Maps
+\emph default
+ (navigazione vocale, ricerca per immagini e integrazione con app di terze
+ parti)
 \end_layout
 
 \begin_layout Itemize
-Sincronizzazione tra Skydrive e Office 365 (compresi i PDF)
+Sincronizzazione tra 
+\emph on
+Skydrive
+\emph default
+ e 
+\emph on
+Office 365
+\emph default
+ (compresi i pdf)
 \end_layout
 
 \begin_layout Itemize
-Supporto alle Macro in Excel Mobile
+Supporto alle macro in 
+\emph on
+Excel Mobile
 \end_layout
 
 \begin_layout Itemize
-Deprecato il supporto alla modifica di documenti di versioni Office più
- vecchie di Office 2007
+Deprecato il supporto alla modifica di documenti di versioni 
+\emph on
+Office
+\emph default
+ più vecchie di 
+\emph on
+Office 2007
 \end_layout
 
 \end_deeper
@@ -2746,17 +3524,37 @@ Foto, Multimedia e Camera
 
 \begin_deeper
 \begin_layout Itemize
-Integrazione tra i contatti e Facebook / Skydrive per informazioni aggiuntive
+Integrazione tra i contatti e 
+\emph on
+Facebook
+\emph default
+ / 
+\emph on
+Skydrive
+\emph default
+ per informazioni aggiuntive
 \end_layout
 
 \begin_layout Itemize
-Integrazione galleria immagini e foto con Twitter (condivisione), Facebook
- e Skydrive
+Integrazione galleria immagini e foto con 
+\emph on
+Twitter
+\emph default
+ (condivisione), 
+\emph on
+Facebook
+\emph default
+ e 
+\emph on
+Skydrive
 \end_layout
 
 \begin_layout Itemize
-Ottimizzazioni all’interfaccia del Media Player e alcune integrazioni per
- una maggiore fruibilità e accessibilità del servizio
+Ottimizzazioni all’interfaccia del 
+\emph on
+Media Player
+\emph default
+ e alcune integrazioni per una maggiore fruibilità e accessibilità del servizio
 \end_layout
 
 \begin_layout Itemize
@@ -2769,6 +3567,8 @@ Supporto per la camera frontale
 
 \end_deeper
 \begin_layout Itemize
+
+\emph on
 Internet Explorer 9 Mobile
 \end_layout
 
@@ -2778,32 +3578,45 @@ A queste bisogna aggiungere alcuni miglioramenti e ottimizzazioni per quanto
 \end_layout
 
 \begin_layout Standard
-Purtroppo la delusione di molti estimatori di Microsoft è cresciuta notevolmente
- probabilmente con la crescita delle aspettative dell’utente medio e i molti
- supporti mancanti su Windows Phone si fanno sentire forte e chiaro, come
- ad esempio l’assenza di un vero multitasking per app di terze parti, nessun
- supporto per uSD, assenza di un File Manager, scarsa personalizzabilità
- anche per quanto riguarda alcune banalità come la scelta di sincronizzare
- o meno i contatti con il servizio cloud, sistema operativo totalmente chiuso
- senza possibilità di market alternativi, interfaccia grafica molto poco
- personalizzabile, nessun supporto per tastiere Bluetooth e impossibilità
- di aggiornare a Windows Mobile 8.
+Purtroppo la delusione di molti estimatori di 
+\emph on
+Microsoft
+\emph default
+ è cresciuta notevolmente probabilmente con la crescita delle aspettative
+ dell’utente medio e i molti supporti mancanti su 
+\emph on
+Windows Phone
+\emph default
+ si fanno sentire forte e chiaro, come ad esempio l’assenza di un vero multitask
+ing per app di terze parti, nessun supporto per microSD, assenza di un 
+\emph on
+file manager
+\emph default
+, scarsa personalizzabilità anche per quanto riguarda alcune banalità come
+ la scelta di sincronizzare o meno i contatti con il servizio cloud, sistema
+ operativo totalmente chiuso senza possibilità di market alternativi, interfacci
+a grafica molto poco personalizzabile, nessun supporto per tastiere bluetooth
+ e impossibilità di aggiornare a 
+\emph on
+Windows Mobile 8
+\emph default
+.
  Queste sono solamente alcune delle limitazioni dettate dal sistema operativo,
  da sommare all’usabilità che sicuramente non eccelle, alla scarsità di
  funzionalità nonostante i grandi passi in avanti appena descritti ma soprattutt
 o alla mancanza di alcune funzionalità di base presenti nei dispositivi
  mobili dall’alba dei tempi come ad esempio la possibilità di salvare i
- contatti sulla SIM, importare o esportare i contatti in formato CSV e la
- possibilità di utilizzare un MP3 come suoneria.
+ contatti sulla SIM, importare o esportare i contatti in formato csv e la
+ possibilità di utilizzare un mp3 come suoneria.
 \end_layout
 
 \begin_layout Subsection
-2012
+2012 - Leader di mercato e fondazioni open-source
 \end_layout
 
 \begin_layout Standard
 Già da un po’ di tempo i dispositivi mobili, intesi come smartphones e tablets
- oltre a telefoni cellulari e PDAs, non sono più solamente un utilità per
+ oltre a telefoni cellulari e PDAs, non sono più solamente un'utilità per
  quanto riguarda svago, produttività e connettività, bensì un accessorio
  immancabile nelle tasche di chiunque abbia o possa avere accesso a queste
  tecnologie.
@@ -2817,9 +3630,24 @@ Il mercato è pronto e la richiesta è alle stelle e le aziende che cavalcano
 \end_layout
 
 \begin_layout Standard
-In casa Google gli aggiornamenti ad Android si susseguono a ritmi forsennati
- e il 29 Marzo 2012 viene rilasciato l’ultimo anello della catena Ice Cream
- Sandwich 4.0.x, ossia Android 4.0.4, una suite di aggiornamenti minori.
+In casa 
+\emph on
+Google
+\emph default
+ gli aggiornamenti ad 
+\emph on
+Android
+\emph default
+ si susseguono a ritmi forsennati e il 29 Marzo 2012 viene rilasciato l’ultimo
+ anello della catena 
+\emph on
+Ice Cream Sandwich 4.0.x
+\emph default
+, ossia 
+\emph on
+Android 4.0.4
+\emph default
+, una suite di aggiornamenti minori.
 \end_layout
 
 \begin_layout Paragraph
@@ -2827,40 +3655,97 @@ Android 4.1
 \end_layout
 
 \begin_layout Standard
-E’ il 27 Giugno 2012 quando viene annunciato Android 4.1 Jelly Bean al Google
- I/O, l’annuale conferenza per developers che si tiene a San Francisco,
- California.
+È il 27 Giugno 2012 quando viene annunciato 
+\emph on
+Android 4.1 Jelly Bean
+\emph default
+ al 
+\emph on
+Google I/O
+\emph default
+, l’annuale conferenza per developers che si tiene a San Francisco, California.
  L’obiettivo principale di questo nuovo sistema basato sul kernel Linux
  3.0.31 era quello di migliorare in termini di funzionalità e performance
  l’interfaccia grafica grazie ad alcune introduzioni tecnologiche quali
- touch anticipation, multiple (triple) buffering e sincronizzazione analogica
- verticale estesa, allo scopo di ottenere un’interfaccia più fluida e meno
- dispendiosa per quanto riguarda l’utilizzo della batteria.
+ 
+\emph on
+touch anticipation
+\emph default
+, 
+\emph on
+multiple (triple) buffering
+\emph default
+ e sincronizzazione analogica verticale estesa, allo scopo di ottenere un’interf
+accia più fluida e meno dispendiosa per quanto riguarda l’utilizzo della
+ batteria.
 \end_layout
 
 \begin_layout Standard
-Il primo tablet ad essere pubblicato, il 13 Luglio, è il Nexus 7 che segue
- la pubblicazione del sistema operativo sull’Android Open Source Project
+Il primo tablet ad essere pubblicato, il 13 Luglio, è il 
+\emph on
+Nexus 7
+\emph default
+ che segue la pubblicazione del sistema operativo sull’
+\emph on
+Android Open Source Project
+\emph default
  avvenuta il 9 Luglio 2012.
 \end_layout
 
 \begin_layout Standard
 Gli aggiornamenti più importanti, interfaccia grafica a parte, riguardano
  specialmente l’usabilità e l’accessibilità, alcuni miglioramenti ad applicazion
-i esistenti come il supporto al Bluetooth su Android Beam, il supporto all’Offli
-ne Voice Dictation, ottimizzazioni alla ricerca vocale e all’app che gestisce
- la fotocamera e la sostituzione del Browser stock con la versione mobile
- di Google Chrome per i dispositivi forniti con Android 4.1 pre-installato.
+i esistenti come il supporto al bluetooth su 
+\emph on
+Android Beam
+\emph default
+, il supporto all’
+\emph on
+Offline Voice Dictation
+\emph default
+, ottimizzazioni alla ricerca vocale e all’app che gestisce la fotocamera
+ e la sostituzione del browser 
+\emph on
+stock
+\emph default
+ con la versione mobile di 
+\emph on
+Google Chrome
+\emph default
+ per i dispositivi forniti con 
+\emph on
+Android 4.1
+\emph default
+ preinstallato.
 \end_layout
 
 \begin_layout Standard
 A seguito di due aggiornamenti avvenuti nei mesi successivi, più che altro
- comprensivi di alcuni bug fixments anche specifici per il Nexus 7, il 13
- Novembre 2012 viene rilasciato Android 4.2 pubblicizzato come “A new flavor
- of Jelly Bean”, che debutta sui dispositivi Nexus 4 e Nexus 10.
+ comprensivi di alcuni bug fixments anche specifici per il 
+\emph on
+Nexus 7
+\emph default
+, il 13 Novembre 2012 viene rilasciato 
+\emph on
+Android 4.2
+\emph default
+ pubblicizzato come “A new flavor of Jelly Bean”, che debutta sui dispositivi
+ 
+\emph on
+Nexus 4
+\emph default
+ e 
+\emph on
+Nexus 10
+\emph default
+.
  Tra le maggiorni novità la possibilità di collegare display Wi-Fi, l’introduzio
-ne del modulo kernel SELinux per la sicurezza e la nuova funzionalità multiutent
-e per il momento disponibile solo su dispositivi Tablet.
+ne del modulo kernel 
+\emph on
+SELinux
+\emph default
+ per la sicurezza e la nuova funzionalità multiutente per il momento disponibile
+ solo su dispositivi tablet.
 \end_layout
 
 \begin_layout Paragraph
@@ -2868,63 +3753,188 @@ iOS 6
 \end_layout
 
 \begin_layout Standard
-L’11 Giugno, ancora una volta durante la Apple Worldwide Developers Conference
- (WWDC) 2012, viene presentata la nuova versione di iOS prevista per il
- rilascio nell’autunno dello stesso anno.
- Infatti, il 19 Settembre 2012 vede la luce la sesta versione del sistem
- operativo Apple iOS 6, disponibile per iPhone 3GS, iPhone 4/4S, iPod Touch
- 4G/5G e iPad 2.
+L’11 Giugno, ancora una volta durante la 
+\emph on
+Apple Worldwide Developers Conference (WWDC) 2012
+\emph default
+, viene presentata la nuova versione di 
+\emph on
+iOS
+\emph default
+ prevista per il rilascio nell’autunno dello stesso anno.
+ Infatti, il 19 Settembre 2012 vede la luce la sesta versione del sistema
+ operativo 
+\emph on
+Apple iOS 6
+\emph default
+, disponibile per 
+\emph on
+iPhone 3GS
+\emph default
+, 
+\emph on
+iPhone 4/4S
+\emph default
+, 
+\emph on
+iPod Touch 4G/5G
+\emph default
+ e 
+\emph on
+iPad 2
+\emph default
+.
  Tra i vari dispositivi non supportati si aggiungono alla lista degli svantaggia
-ti anche l’iPhone 3GS, l’iPhone 4 e l’iPod Touch 4G poiché, a causa del
- singolo core, non godone di molte delle novità previste in iOS 6.
+ti anche l’
+\emph on
+iPhone 3GS
+\emph default
+, l’
+\emph on
+iPhone 4
+\emph default
+ e l’
+\emph on
+iPod Touch 4G
+\emph default
+ poiché, a causa del singolo core, non godone di molte delle novità previste
+ in 
+\emph on
+iOS 6
+\emph default
+.
  Tra le nuove funzionalità:
 \end_layout
 
 \begin_layout Itemize
-Siri disponibile anche su dispositivi iPad e iPod Touch
+
+\emph on
+Siri
+\emph default
+ disponibile anche su dispositivi 
+\emph on
+iPad
+\emph default
+ e 
+\emph on
+iPod Touch
 \end_layout
 
 \begin_layout Itemize
-Siri disponibile in oltre 10 nuovi linguaggi tra cui l’italiano
+
+\emph on
+Siri
+\emph default
+ disponibile in oltre dieci nuovi linguaggi tra cui l’italiano
 \end_layout
 
 \begin_layout Itemize
-Eyes-Free, la nuova funzionalità che permette di utilizzare Siri per svolgere
- alcune delle attività più classiche spesso necessarie quando si è alla
- guida, viene reso disponibile per e compatibile per Audi, Toyota e Honda
+
+\emph on
+Eyes-Free
+\emph default
+, la nuova funzionalità che permette di utilizzare 
+\emph on
+Siri
+\emph default
+ per svolgere alcune delle attività più classiche spesso necessarie quando
+ si è alla guida, viene reso disponibile e compatibile per 
+\emph on
+Audi
+\emph default
+, 
+\emph on
+Toyota
+\emph default
+ e 
+\emph on
+Honda
 \end_layout
 
 \begin_layout Itemize
-Siri si integra con Facebook e Twitter
+
+\emph on
+Siri
+\emph default
+ si integra con 
+\emph on
+Facebook
+\emph default
+ e 
+\emph on
+Twitter
 \end_layout
 
 \begin_layout Itemize
-Facebook profondamente integrato nel sistema operativo, come era già stato
- fatto per Twitter
+
+\emph on
+Facebook
+\emph default
+ profondamente integrato nel sistema operativo, come era già stato fatto
+ per 
+\emph on
+Twitter
 \end_layout
 
 \begin_layout Itemize
-Maps completamente indipendente al posto di Google Maps, grazie anche al
- contributo di TomTom
+
+\emph on
+Maps
+\emph default
+ completamente indipendente al posto di 
+\emph on
+Google Maps
+\emph default
+, grazie anche al contributo di 
+\emph on
+TomTom
 \end_layout
 
 \begin_layout Itemize
-Telefonate FaceTime supportate anche in rete 3G
+Telefonate 
+\emph on
+FaceTime
+\emph default
+ supportate anche in rete 3G
 \end_layout
 
 \begin_layout Itemize
-Safari supporta le tabs iCloud e la reading list offline
+
+\emph on
+Safari
+\emph default
+ supporta le tabs 
+\emph on
+iCloud
+\emph default
+ e la reading list offline
 \end_layout
 
 \begin_layout Itemize
-Integrato il supporto ad Adobe Flash Player per supporti con processore
- A5+
+Integrato il supporto ad 
+\emph on
+Adobe Flash Player
+\emph default
+ per supporti con processore 
+\emph on
+Apple A5+
 \end_layout
 
 \begin_layout Standard
-Altri aggiornamenti e miligorire riguardano lo Store, il Game Center, il
- Calendar, l’orologio e la sicurezza, da sempre un fiore all’occhiello dei
- dispositivi e dei sistemi operativi a marchio Apple.
+Altri aggiornamenti e migliorie riguardano lo 
+\emph on
+Store
+\emph default
+, il 
+\emph on
+Game Center
+\emph default
+, il calendario, l’orologio e la sicurezza, da sempre un fiore all’occhiello
+ dei dispositivi e dei sistemi operativi a marchio 
+\emph on
+Apple
+\emph default
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -2932,52 +3942,217 @@ Windows Phone 8
 \end_layout
 
 \begin_layout Standard
-Forte dei discorsi fatti per Microsoft relativamente al fast-development
- effettuato per Windows Phone 7.x, il 29 Ottobre 2012 viene rilasciato Windows
- Phone 8 la seconda generazione del sistema operativo Microsoft della serie
- Windows Phone che, come il suo predecessore, vede l’interfaccia grafica
- conosciuta come Modern UI o Metro.
+Forte dei discorsi fatti per 
+\emph on
+Microsoft
+\emph default
+ relativamente al 
+\emph on
+fast development
+\emph default
+ effettuato per 
+\emph on
+Windows Phone 7.x
+\emph default
+, il 29 Ottobre 2012 viene rilasciato 
+\emph on
+Windows Phone 8
+\emph default
+ la seconda generazione del sistema operativo 
+\emph on
+Microsoft
+\emph default
+ della serie 
+\emph on
+Windows Phone
+\emph default
+ che, come il suo predecessore, vede l’interfaccia grafica conosciuta come
+ 
+\emph on
+Modern UI
+\emph default
+ o 
+\emph on
+Metro
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
-La grande novità di Windows Phone 8 è che l’architettura su base CE viene
- completamente sostituita dalla nuova architettura su base Windows NT kernel
- riscontrabile nella maggior parte delle componenti di Windows 8.
- Anche a causa di ciò, però, risulta impossibile aggiornare a Windows Phone
- 8 per i possessori di Windows Phone 7.x e le nuove applicazioni specifiche
- per Windows Phone 8 non sono disponibile per le versioni più vecchie, anche
- se è possibile per gli sviluppatori rendere pubbliche le proprie applicazioni
- per ambo i supporti.
+La grande novità di 
+\emph on
+Windows Phone 8
+\emph default
+ è che l’architettura su base 
+\emph on
+CE
+\emph default
+ viene completamente sostituita dalla nuova architettura su base 
+\emph on
+Windows NT
+\emph default
+ kernel riscontrabile nella maggior parte delle componenti di 
+\emph on
+Windows 8
+\emph default
+.
+ Anche a causa di ciò, però, risulta impossibile aggiornare a 
+\emph on
+Windows Phone 8
+\emph default
+ per i possessori di 
+\emph on
+Windows Phone 7.x
+\emph default
+ e le nuove app specifiche per 
+\emph on
+Windows Phone 8
+\emph default
+ non sono disponibili per le versioni più vecchie, anche se è possibile
+ per gli sviluppatori rendere pubbliche le proprie app per ambo i supporti.
 \end_layout
 
 \begin_layout Standard
-I dispositivi Windows Phone 8 sono prodotti da Nokia, HTC, Samsung e Huawei.
- Tra le nuove funzionalità e i nuovi supporti introdotti da Windows Phone
- 8: - Supporto al multi-core fino a 64 core - Introdotto il supporto alle
- MicroSD utilizzate per aggiungere spazio di archiviazione - Supporto ad
- NTFS - Internet Explorer 10 fornito di default con interfaccia grafica
- semplificata rispetto a IE9 - Multitasking reale che apre le porte ad un
- nuovo livello di potenzialità per le app in background - Driving Mode,
- interfaccia grafica specifica e semplificata da utilizzare mentre si è
- alla guida - Kids Corner, una sorta di guest-mode per permettere l’accesso
- a giochi e applicazioni selezionate preventivamente senza modificare i
- dati dell’utente principale - NFC e Wallet, per permettere lo scambio di
- dati tra dispositivi mobili e desktop con Windows 8 e Windows Phone 8.
+I dispositivi 
+\emph on
+Windows Phone 8
+\emph default
+ sono prodotti da 
+\emph on
+Nokia
+\emph default
+, 
+\emph on
+HTC
+\emph default
+, 
+\emph on
+Samsung
+\emph default
+ e 
+\emph on
+Huawei
+\emph default
+.
+ Tra le nuove funzionalità e i nuovi supporti introdotti da 
+\emph on
+Windows Phone 8
+\emph default
+:
+\end_layout
+
+\begin_layout Itemize
+Supporto al multi-core fino a 64 core
+\end_layout
+
+\begin_layout Itemize
+Introdotto il supporto alle microSD utilizzate per aggiungere spazio di
+ archiviazione - Supporto ad 
+\emph on
+NTFS
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Internet Explorer 10
+\emph default
+ fornito di default con interfaccia grafica semplificata rispetto a 
+\emph on
+IE9
+\end_layout
+
+\begin_layout Itemize
+Multitasking reale che apre le porte ad un nuovo livello di potenzialità
+ per le app in background
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Driving Mode
+\emph default
+, interfaccia grafica specifica e semplificata da utilizzare mentre si è
+ alla guida
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Kids Corner
+\emph default
+, una sorta di guest-mode per permettere l’accesso a giochi e applicazioni
+ selezionate preventivamente senza modificare i dati dell’utente principale
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+NFC
+\emph default
+ e 
+\emph on
+Wallet
+\emph default
+, per permettere lo scambio di dati tra dispositivi mobili e desktop con
+ 
+\emph on
+Windows 8
+\emph default
+ e 
+\emph on
+Windows Phone 8
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
-Poiché Windows Phone 8 è stato pensato in termini di dispositivo MTP multimedial
-e in termini di audio e video, Windows Media Player e Internet Explorer
+Poiché 
+\emph on
+Windows Phone 8
+\emph default
+ è stato pensato in termini di dispositivo 
+\emph on
+MTP
+\emph default
+ multimediale per quanto riguarda audio e video, 
+\emph on
+Windows Media Player
+\emph default
+ e 
+\emph on
+Internet Explorer
+\emph default
  permettono di trasferire musica, video e altri files multimediali, attività
- possibile anche tra dispositivi Windows Phone 8 e Windows 8 grazie ad un’applic
-azione specifica per lo scambio dati, disponibile anche per OS X e Windows
- Desktop.
-\end_layout
-
-\begin_layout Standard
-Purtroppo, a grande discapito di questi dispositivi, il numero di applicazioni
- disponibili rimane molto ridotto se comparato ai grandi competitor di Google
- e Apple.
+ possibile anche tra dispositivi 
+\emph on
+Windows Phone 8
+\emph default
+ e 
+\emph on
+Windows 8
+\emph default
+ grazie ad un’applicazione specifica per lo scambio dati, disponibile anche
+ per 
+\emph on
+OS X
+\emph default
+ e 
+\emph on
+Windows Desktop
+\emph default
+.
+ Purtroppo, a grande discapito di questi dispositivi, il numero di applicazioni
+ disponibili rimane molto ridotto se comparato ai grandi competitor quali
+ 
+\emph on
+Google
+\emph default
+ e 
+\emph on
+Apple
+\emph default
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -2986,27 +4161,140 @@ Tizen
 
 \begin_layout Standard
 Nelle precedenti sezioni abbiamo citato questo sistema operativo open-source
- dell’associazione formata da Linux Foundation, Samsung e Intel, rilasciato
- per la prima volta il 5 Gennaio del 2012, a causa del fatto nasce sulla
- base di MeeGo e LiMo e si sviluppa anche grazie a Bada.
+ dell’associazione formata da 
+\emph on
+Linux Foundation
+\emph default
+, 
+\emph on
+Samsung
+\emph default
+ e 
+\emph on
+Intel
+\emph default
+, rilasciato per la prima volta il 5 Gennaio del 2012, nato sulla base di
+ 
+\emph on
+MeeGo
+\emph default
+ e 
+\emph on
+LiMo
+\emph default
+ e sviluppatosi anche grazie a 
+\emph on
+Bada
+\emph default
+.
  Dalle ceneri di questi sistemi operativi nasce quindi un nuovo sistema
  per smartphones, tablets, smart TVs, smart cameras e in-vehicle infotainment.
 \end_layout
 
 \begin_layout Standard
-L’architettura è a kernel monolitico, per piattaforme ARM e x86, e il package
- manager gestisce pacchetti RPM.
- I linguaggi di programmazione supportati sono C, C++ e HTML5; le app in
- HTML5 funzionano senza l’ausilio di un browser, come del resto anche su
- Firefox OS, Ubuntu Touch (che vedremo in seguito) e webOS.
+L’architettura è a kernel monolitico, per piattaforme 
+\emph on
+ARM
+\emph default
+ e 
+\emph on
+x86
+\emph default
+, e il package manager gestisce pacchetti 
+\emph on
+RPM
+\emph default
+.
+ I linguaggi di programmazione supportati sono 
+\emph on
+C
+\emph default
+, 
+\emph on
+C++
+\emph default
+ e 
+\emph on
+HTML5
+\emph default
+; le app in 
+\emph on
+HTML5
+\emph default
+ funzionano senza l’ausilio di un browser, come del resto anche su 
+\emph on
+Firefox OS
+\emph default
+, 
+\emph on
+Ubuntu Touch
+\emph default
+ (che vedremo in seguito) e 
+\emph on
+webOS
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
 La direzione dello sviluppo, per quanto riguarda la direzione da seguire
- e le strategie, è lasciata ad una commissione nata dalle ceneri della LiMo
- Foundation e denominata Tizen Foundation, composta da membri di Samsung,
- Intel, Huawei, Fujitsu, NEC, Panasonic, KT, Sprint, SK Telecom, Orange,
- NTT Docomo e Vodafone.
+ e le strategie, è lasciata ad una commissione nata dalle ceneri della 
+\emph on
+LiMo Foundation
+\emph default
+ e denominata 
+\emph on
+Tizen Foundation
+\emph default
+, composta da membri di 
+\emph on
+Samsung
+\emph default
+, 
+\emph on
+Intel
+\emph default
+, 
+\emph on
+Huawei
+\emph default
+, 
+\emph on
+Fujitsu
+\emph default
+, 
+\emph on
+NEC
+\emph default
+, 
+\emph on
+Panasonic
+\emph default
+, 
+\emph on
+KT
+\emph default
+, 
+\emph on
+Sprint
+\emph default
+, 
+\emph on
+SK Telecom
+\emph default
+, 
+\emph on
+Orange
+\emph default
+, 
+\emph on
+NTT Docomo
+\emph default
+ e 
+\emph on
+Vodafone
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
@@ -3032,8 +4320,7 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
-L'evoluzione dei sistemi operativi che hanno contribuito alla nascita di
- Tizen
+L'evoluzione degli OS che hanno contribuito alla nascita di Tizen
 \end_layout
 
 \end_inset
@@ -3051,7 +4338,7 @@ L'evoluzione dei sistemi operativi che hanno contribuito alla nascita di
 \end_layout
 
 \begin_layout Subsection
-2013
+2013 - Ultimi rilasci e sistemi innovativi
 \end_layout
 
 \begin_layout Paragraph
@@ -3061,12 +4348,52 @@ iOS 7
 \begin_layout Standard
 “Capace di grandi cose.
  E di tutte le piccole cose quotidiane, naturalmente.”, questo lo slogan
- (tradotto quasi letteralmente) della presentazione di iOS 7, la settima
- release del sistema operativo mobile della Apple, presentata alla WWDC
+ (tradotto quasi letteralmente) della presentazione di 
+\emph on
+iOS 7
+\emph default
+, la settima release del sistema operativo mobile della 
+\emph on
+Apple
+\emph default
+, presentata alla 
+\emph on
+WWDC
+\emph default
  il 10 Giugno e rilasciata il 18 Settembre 2013.
- Stando ai dati di Mashable pare che alla fine del 2013 iOS 7 sia stato
- installato sul 74% dei dispositivi che lo supportano, ossia iPhone 4/4S,
- iPhone 5/5C/5S, iPod Touch 5G, iPad 2, iPad Air e iPad mini.
+ Stando ai dati di 
+\emph on
+Mashable
+\emph default
+ pare che alla fine del 2013 
+\emph on
+iOS 7
+\emph default
+ sia stato installato sul 74% dei dispositivi che lo supportano, ossia 
+\emph on
+iPhone 4/4S
+\emph default
+, 
+\emph on
+iPhone 5/5C/5S
+\emph default
+, 
+\emph on
+iPod Touch 5G
+\emph default
+, 
+\emph on
+iPad 2
+\emph default
+, 
+\emph on
+iPad Air
+\emph default
+ e 
+\emph on
+iPad mini
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
@@ -3092,7 +4419,17 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
-Share di iOS 7, iOS 6 e precedenti
+Share di 
+\emph on
+iOS 7
+\emph default
+, 
+\emph on
+iOS 6
+\emph default
+ e precedenti secondo 
+\emph on
+Mashable
 \end_layout
 
 \end_inset
@@ -3112,10 +4449,14 @@ Share di iOS 7, iOS 6 e precedenti
 \begin_layout Standard
 La miglioria sostanziale riguarda l’interfaccia grafica, semplice e minimalista,
  praticamente ridisegnata allo scopo di semplificare al massimo l’esperienza
- utente e renderla pià utile e divertente.
- Stando alle dichiarazioni della stessa Apple, il design ottimale è solo
- il fiore all’occhiello di una serie di funzionalità ottimali orientate
- al funzionamento del dispositivo e delle app in esso integrate.
+ utente e renderla più utile e divertente.
+ Stando alle dichiarazioni della stessa 
+\emph on
+Apple
+\emph default
+, il design ottimale è solo il fiore all’occhiello di una serie di funzionalità
+ ottimali orientate al miglior funzionamento possibile del dispositivo e
+ delle app in esso integrate.
 \end_layout
 
 \begin_layout Standard
@@ -3149,7 +4490,13 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
-Home di iOS 7 su iPhone
+Home di 
+\emph on
+iOS 7
+\emph default
+ su 
+\emph on
+iPhone
 \end_layout
 
 \end_inset
@@ -3172,22 +4519,52 @@ Analizziamo nel dettaglio le nuove integrazioni funzionali di questo sistema
 \end_layout
 
 \begin_layout Itemize
-Control Center, il pannello di controllo con tutte le impostazioni che richiedon
-o di essere a portata di mano.
+
+\emph on
+Control Center
+\emph default
+, il pannello di controllo con tutte le impostazioni che richiedono di essere
+ a portata di mano.
  Allo stesso modo in cui si accede al pannello di notifica con una gesture
  di swipe dall’alto verso il basso, è possibile accedere a questo pannello
  con una gesture di swipe contraria, effettuata nella parte bassa dello
- schermo, da partire da qualsiasi schermata, anche quella di blocco.
- Oltre alle impostazioni più comuni sono disponibili accessi veloci a Flash,
- Clock, Calculator e Camera.
+ schermo, a partire da qualsiasi schermata, anche quella di blocco.
+ Oltre alle impostazioni più comuni sono disponibili accessi veloci a 
+\emph on
+Flash
+\emph default
+, 
+\emph on
+Clock
+\emph default
+, 
+\emph on
+Calculator
+\emph default
+ e 
+\emph on
+C
+\emph default
+amera.
 \end_layout
 
 \begin_layout Itemize
-Notification Center, simile a quello presente sui dispositivi Android e
- attivabile con la medesima gesture.
- E’ suddiviso in tre sezioni, quella complessiva di tutte le notifiche,
- quella con le sole notifiche perse (non osservate) ed una nuova sezione
- denominata “Today” con le notifiche del giorno.
+
+\emph on
+Notification Center
+\emph default
+, simile a quello presente sui dispositivi 
+\emph on
+Android
+\emph default
+ e attivabile con la medesima gesture.
+ È suddiviso in tre sezioni, quella complessiva di tutte le notifiche, quella
+ con le sole notifiche perse (non osservate) ed una nuova sezione denominata
+ 
+\emph on
+Today
+\emph default
+ con le notifiche del giorno.
  Anche questo pannello è accessibile da ogni schermata, anche quella di
  blocco.
 \end_layout
@@ -3197,61 +4574,103 @@ Multitasking, la nota funzionalità già discussa precedentemente diventa
  intelligente.
  Praticamente l’algoritmo cerca di memorizzare e interpretare le azioni
  più comuni dell’utente in modo da poter auspicare a quali azioni sta per
- compiere e fornire contenuti aggiornati prima ancora che si passi da un’applica
-zione all’altra, in modo da ridurre al minimo i tempi di attesa.
+ compiere e fornire contenuti aggiornati prima ancora che si passi da un’app
+ all’altra, in modo da ridurre al minimo i tempi di attesa.
  Per chiarire ancora una volta ogni ambiguità, stiamo parlando del meglio
  definito come fast app-switching, ossia una sorta di finto multitasking.
 \end_layout
 
 \begin_layout Itemize
-Camera, l’app per la gestione della fotocamera sul retro e di quella frontale.
- Con iOS vengono anzitutto introdotte nuove tipologie di scatto e modalità
- per i video che rendono il pacchetto unico; tra le tipologie abbiamo Slo-mo,
- Video normale, Photo normale, Square (foto quadrata), Pano (foto panoramica).
+
+\emph on
+Camera
+\emph default
+, l’app per la gestione della fotocamera sul retro e di quella frontale.
+ Con 
+\emph on
+iOS 7
+\emph default
+ vengono anzitutto introdotte nuove tipologie di scatto e modalità per i
+ video che rendono il pacchetto unico; tra le tipologie abbiamo 
+\emph on
+Slo-mo
+\emph default
+, 
+\emph on
+Video
+\emph default
+ normale, 
+\emph on
+Photo
+\emph default
+ normale, 
+\emph on
+Square
+\emph default
+ (foto quadrata), 
+\emph on
+Pano
+\emph default
+ (foto panoramica).
  Sono presenti inoltre una decina di filtri per rendere le foto uniche,
- tra cui Mono, Tonal, Noir, Fade, Chrome, Process, Transfer e Instant.
+ tra cui 
+\emph on
+Mono
+\emph default
+, 
+\emph on
+Tonal
+\emph default
+, 
+\emph on
+Noir
+\emph default
+, 
+\emph on
+Fade
+\emph default
+, 
+\emph on
+Chrome
+\emph default
+, 
+\emph on
+Process
+\emph default
+, 
+\emph on
+Transfer
+\emph default
+ e 
+\emph on
+Instant
+\emph default
+.
 \end_layout
 
 \begin_layout Itemize
-Photo, l’archivio multimediale di tutti gli scatti che è stato suddiviso
- in più categorie a seconda dell’annata o del posto in cui sono state scattate
- se sono presenti informazioni di geolocalizzazione.
- Grazie alla gestione a miniature è possibile recuperare una foto o un video
- scattata ovunque e anche molto vecchia in pochissimo tempo.
-\end_layout
 
-\begin_layout Itemize
-AirDrop, il più comodo e veloce sistema per condividere qualsiasi cosa su
- iPhone.
- Consiste in un tasto di condivisione rapida per foto, video e contatti
- con chiunque, tramite Bluetooth e Wi-Fi, in maniera completamente automatizzata.
- E’ necessario solamente decidere cosa condividere e con chi.
-\end_layout
-
-\begin_layout Itemize
-Siri, il noto sistema di riconoscimento vocale “onniscente” cambia look
- e si potenzia con iOS 7.
- E’ stato ottimizzato soprattutto grazie al fatto che le nuove voci sono
- più facilmente comprensibili, in secondo luogo ha più fonti a disposizione
- tra cui reperire le informazioni ed una maggior velocità di risposta.
-\end_layout
-
-\begin_layout Itemize
-Apps Near Me, la nuova funzionalità integrata nell’App Store.
+\emph on
+Popular (Apps) Near Me
+\emph default
+, la nuova funzionalità integrata nell’
+\emph on
+App Store
+\emph default
+.
  Praticamente mostra una collezione delle app più popolari in base alla
- posizione in cui ci si trova quindi, teoricamente, quelle a cui probabilmente
- l’utente è più interessato nel momento corrente.
- Inoltre, con iOS 7, gli aggiornamenti alle app vengono effettuati automaticamen
-te in background.
+ posizione in cui ci si trova, quindi quelle a cui probabilmente l’utente
+ è più interessato nel momento attuale.
+ Inoltre, con 
+\emph on
+iOS 7
+\emph default
+, gli aggiornamenti alle app vengono effettuati automaticamente in background.
  
 \begin_inset Float figure
 wide false
 sideways false
 status open
-
-\begin_layout Plain Layout
-
-\end_layout
 
 \begin_layout Plain Layout
 \noindent
@@ -3266,15 +4685,25 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
-Apple Store su iPhone con iOS 7; schermata Popular Near Me
+
+\emph on
+Apple Store
+\emph default
+ su 
+\emph on
+iPhone
+\emph default
+ con 
+\emph on
+iOS 7
+\emph default
+; schermata 
+\emph on
+Popular Near Me
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -3284,10 +4713,64 @@ Apple Store su iPhone con iOS 7; schermata Popular Near Me
 \end_layout
 
 \begin_layout Itemize
-iOS in the Car, un sistema che si interfaccia con un supporto integrabile
- nelle automobili che permette di utilizzare determinati controlli grazie
- al collegamento del dispositivo iOS 7 con l’automobile e Siri Eyes Free,
- come effettuare telefonate, ricevere ed inviare sms e navigare.
+
+\emph on
+Photo
+\emph default
+, l’archivio multimediale di tutti gli scatti che è stato suddiviso in più
+ categorie a seconda dell’annata o del posto in cui sono state scattate
+ le foto nel caso siano presenti informazioni di geolocalizzazione.
+ Grazie alla gestione a miniature è possibile recuperare una foto o un video
+ scattata ovunque e anche molto tempo addietro in pochissimo tempo.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+AirDrop
+\emph default
+, il più comodo e veloce sistema per condividere qualsiasi cosa su 
+\emph on
+iPhone
+\emph default
+ e simili.
+ Consiste in un tasto di condivisione rapida per foto, video e contatti
+ con chiunque, tramite bluetooth e Wi-Fi, in maniera completamente automatizzata.
+ È necessario solamente decidere cosa condividere e con chi.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Siri
+\emph default
+, il noto sistema di riconoscimento vocale “onniscente” cambia look e si
+ potenzia con 
+\emph on
+iOS 7
+\emph default
+.
+ È stato ottimizzato soprattutto grazie al fatto che le nuove voci sono
+ più facilmente comprensibili e, in secondo luogo, ha più fonti a disposizione
+ da cui reperire le informazioni ed una maggior velocità di risposta.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+iOS in the Car
+\emph default
+, un sistema che si interfaccia con un supporto integrabile nelle automobili
+ e che permette di utilizzare determinati controlli grazie al collegamento
+ del dispositivo 
+\emph on
+iOS 7
+\emph default
+ con l’automobile e 
+\emph on
+Siri Eyes-Free
+\emph default
+, come ad esempio effettuare telefonate, ricevere ed inviare sms e navigare.
 \end_layout
 
 \begin_layout Paragraph
@@ -3296,19 +4779,36 @@ Firefox OS e Chrome OS
 
 \begin_layout Standard
 Il 2013 è l’anno in cui, nel bene o nel male, si è sentito parlare maggiormente
- di Chrome OS, una nuova tipologia di sistema operativo dedicato a chi soddisfa
- tutte le proprie necessità al computer grazie a servizi e applicazioni
- web.
- Chrome OS, versione brandizzata del sistema operativo open-source Chromium
- OS, viene montato sui cosidetti Chromebook, laptops con pochissima memoria
- interna e pochissime applicazioni: sostanzialmente consiste in un Web Browser
- (una versione di Chrome), un Media Player e un File System.
+ di 
+\emph on
+Chrome OS
+\emph default
+, una nuova tipologia di sistema operativo dedicato a chi soddisfa tutte
+ le proprie necessità al computer grazie a servizi ed applicazioni web.
+ 
+\emph on
+Chrome OS
+\emph default
+, versione brandizzata del sistema operativo open-source 
+\emph on
+Chromium OS
+\emph default
+, viene montato sui cosidetti 
+\emph on
+Chromebook
+\emph default
+, laptops con pochissima memoria interna e pochissime applicazioni stand-alone:
+ sostanzialmente consiste in un web browser (una versione di 
+\emph on
+Chrome
+\emph default
+), un media player e un file manager.
 \end_layout
 
 \begin_layout Standard
-Ci sono molti buoni motivi per cui un Chromebook è la soluzione ideale per
- molti utilizzatori della rete e i principali e più risonanti motivi in
- rete sono i seguenti: 
+Ci sono molti buoni motivi per cui il Chromebook può essere la soluzione
+ ideale per molti utilizzatori della rete e i principali e più risonanti
+ motivi sono i seguenti: 
 \end_layout
 
 \begin_layout Itemize
@@ -3316,19 +4816,30 @@ Economicità
 \end_layout
 
 \begin_layout Itemize
-Online Free Storage (Google Drive)
+Online Free Storage (
+\emph on
+Google Drive
+\emph default
+)
 \end_layout
 
 \begin_layout Itemize
-Free Web App che possono essere eseguite anche Offline (Chrome Web Store)
+Free Web Apps che possono essere eseguite anche offline (
+\emph on
+Chrome Web Store
+\emph default
+)
 \end_layout
 
 \begin_layout Itemize
-Velocità d’avvio impareggiabile, meno di 10 secondi per quelli con SSD
+Velocità d’avvio impareggiabile, meno di dieci secondi per quelli dotati
+ di 
+\emph on
+SSD
 \end_layout
 
 \begin_layout Itemize
-Aggiornamenti Automatici
+Aggiornamenti automatici
 \end_layout
 
 \begin_layout Itemize
@@ -3337,33 +4848,119 @@ Assenza di virus
 
 \begin_layout Standard
 Naturalmente, in questo panorama, vengono a mancare tutte le applicazioni
- stand-alone a cui siamo abituati e, soprattutto, per chi non fosse familiare
- la suite di strumenti di Google, è un mondo completamente nuovo.
+ stand-alone a cui siamo abituati e, soprattutto, per coloro a cui non fosse
+ familiare la suite di strumenti di 
+\emph on
+Google
+\emph default
+, risulta essere un mondo completamente nuovo.
 \end_layout
 
 \begin_layout Standard
-Il 23 Aprile 2013 viene rilasciato per la prima volta Mozilla Firefox OS,
- un sistema operativo open-source a kernel monolitico per piattaforme ARM,
- programmato in C++, HTML5, CSS e JavaScript.
- Per quanto possa esserci un’assonanza in questo caso non stiamo parlando
- di un sistema operativo con un browser come sistema di navigazione principale,
- bensì un sistema operativo in tutto e per tutto, basato su tecnologie abitualme
-nte utilizzate sul web.
+Il 23 Aprile 2013 viene rilasciato per la prima volta 
+\emph on
+Mozilla Firefox OS
+\emph default
+, un sistema operativo open-source a kernel monolitico per piattaforme 
+\emph on
+ARM
+\emph default
+, programmato in 
+\emph on
+C++
+\emph default
+, 
+\emph on
+HTML5
+\emph default
+, 
+\emph on
+CSS
+\emph default
+ e 
+\emph on
+JavaScript
+\emph default
+.
+ Per quanto possa esserci un’assonanza con l'architettura 
+\emph on
+Chrome OS
+\emph default
+ in questo caso non stiamo parlando di un sistema operativo con un browser
+ come sistema di fruizione principale, bensì un sistema operativo in tutto
+ e per tutto, basato su tecnologie abitualmente utilizzate ai fini di sviluppare
+ applicazioni orientate al web.
 \end_layout
 
 \begin_layout Standard
 L’obiettivo è quello di produrre un sistema operativo completamente open-source
  per smartphones e tablet, in grado di essere considerato come valida alternativ
-a a molti sistemi proprietari come Apple iOS, Google Chrome OS e Microsoft
- Windows Phone e non proprietari come Android, Jolla Sailfish OS e Ubuntu
- Touch.
+a a molti sistemi proprietari come 
+\emph on
+Apple iOS
+\emph default
+, 
+\emph on
+Google Chrome OS
+\emph default
+ e 
+\emph on
+Microsoft Windows Phone
+\emph default
+ e non proprietari come 
+\emph on
+Android
+\emph default
+, 
+\emph on
+Jolla Sailfish OS
+\emph default
+ e 
+\emph on
+Ubuntu Touch
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
-Attualmente Firefox OS è compatibile con una serie di device tra cui PandaBoard,
- Desktop Computers, Nexus S, Nexus S 4G, Samsung Galaxy S2 e Galaxy Nexus.
- Un dipendente Nokia ha dimostrato che funziona anche sul recente Raspberry
- PI.
+Attualmente 
+\emph on
+Firefox OS
+\emph default
+ è compatibile con una serie di device tra cui 
+\emph on
+PandaBoard
+\emph default
+, 
+\emph on
+Desktop Computers
+\emph default
+, 
+\emph on
+Nexus S
+\emph default
+, 
+\emph on
+Nexus S 4G
+\emph default
+, 
+\emph on
+Samsung Galaxy S2
+\emph default
+ e 
+\emph on
+Galaxy Nexus
+\emph default
+.
+ Un dipendente 
+\emph on
+Nokia
+\emph default
+ ha dimostrato che funziona anche sul recente 
+\emph on
+Raspberry PI
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
@@ -3371,24 +4968,49 @@ Tecnologicamente parlando è composto da tre strati fondamentali:
 \end_layout
 
 \begin_layout Itemize
-Gonk, un kernel Linux e un layer di astrazione hardoware
+
+\emph on
+Gonk
+\emph default
+, un kernel Linux e un layer di astrazione hardware
 \end_layout
 
 \begin_layout Itemize
-Gecko, il noto layout engine e application services provider
+
+\emph on
+Gecko
+\emph default
+, il noto 
+\emph on
+layout engine
+\emph default
+ e 
+\emph on
+application services provider
 \end_layout
 
 \begin_layout Itemize
-Gaia, un layer di interfaccia grafica HTML5
+
+\emph on
+Gaia
+\emph default
+, un layer di interfaccia grafica HTML5
 \end_layout
 
 \begin_layout Standard
 Il 3 Luglio 2013 viene rilasciata l’ultima versine del supporto per sviluppatori
-, il Firefox OS Simulator 4.0, con alcune interessanti novità tra cui una
- nuova dashboard dalla quale gestire tutte le applicazioni sviluppate e
- il cosidetto Remote CSS Styling, un sistema che permette allo sviluppatore
- di modificare il CSS dell’app e visualizzare direttamente nell’emulatore
- le modifiche effettuate senza necessità di far ripartire l’app.
+, il 
+\emph on
+Firefox OS Simulator 4.0
+\emph default
+, con alcune interessanti novità tra cui una nuova dashboard dalla quale
+ gestire tutte le applicazioni sviluppate e il cosiddetto 
+\emph on
+Remote CSS Styling
+\emph default
+, un sistema che permette allo sviluppatore di modificare il CSS dell’app
+ e visualizzare direttamente nell’emulatore le modifiche effettuate senza
+ necessità di riavviare l'app.
 \end_layout
 
 \begin_layout Paragraph
@@ -3396,26 +5018,52 @@ Nexus 5 e Android 4.4 KitKat
 \end_layout
 
 \begin_layout Standard
-Sicuramente in ambito mobile il 2013 è stato l’anno del Nexus 5 in quanto
- a diffusione mondiale e specialmente in Italia, dove si è rapidamente diffuso
- grazie al fatto che per la prima volta è stato possibile acquistare un
- dispositivo altamente competitivo in quanto a performance, ad un prezzo
+Sicuramente in ambito mobile il 2013 è stato l’anno del 
+\emph on
+Nexus 5
+\emph default
+ in quanto a diffusione mondiale ma specialmente in Italia, dove si è rapidament
+e diffuso grazie al fatto che per la prima volta è stato possibile acquistare
+ un dispositivo altamente competitivo in quanto a performance, ad un prezzo
  molto competitivo in termini di economicità; infatti, questo nuovo smartphone
- a marchio Google, è disponibile per l’acquisto su Google Play a soli 349€
- nella versione con 16 GB di memoria e a 399€ nella versione con 32 GB.
+ a marchio 
+\emph on
+Google
+\emph default
+, è disponibile per l’acquisto su 
+\emph on
+Google Play
+\emph default
+ a soli 349€ nella versione con 16 GB di memoria e a 399€ nella versione
+ con 32 GB.
 \end_layout
 
 \begin_layout Standard
 Le caratteristiche che lo equiparano fondamentalmente a un device di fascia
- alta sono principalmente il processore, un 4-core a 2.3GHz, una ram da 2GB
- e il supporto NFC, oltre al fatto che viene venduto con Android 4.4 KitKat
- pre-installato.
+ alta sono principalmente il processore, un 4-core a 2.3GHz, una RAM da 2GB
+ e il supporto NFC, oltre al fatto che viene venduto con 
+\emph on
+Android 4.4 KitKat
+\emph default
+ preinstallato.
 \end_layout
 
 \begin_layout Standard
-Android 4.4 KitKat, nonché l’ultima versione del sistema operativa del sistema
- operativo di Google, rilasciata il 31 Ottobre 2013, ha visto il proprio
- debutto proprio sul Google Nexus 5.
+
+\emph on
+Android 4.4 KitKat
+\emph default
+, nonché l’ultima versione del sistema operativa del sistema operativo di
+ 
+\emph on
+Google
+\emph default
+, rilasciata il 31 Ottobre 2013, ha visto il proprio debutto proprio sul
+ 
+\emph on
+Google Nexus 5
+\emph default
+.
  Il minimo richiesto per quanto riguarda la RAM è 512 MB.
  Tra le maggiori novità è evidente un forte rinnovo per quanto riguarda
  l’interfaccia grafica, performance notevolmente migliorate e una serie
@@ -3425,8 +5073,11 @@ Android 4.4 KitKat, nonché l’ultima versione del sistema operativa del sistem
 \begin_layout Standard
 La prima grande novità, che fa da fiore all’occhiello alla presentazione
  del dispositivo, è la forte integrazione della funzionalità “Ok Google”
- vista e rivista nelle anteprime dei Google Glasses, di cui parleremo tra
- poco.
+ vista e rivista nelle anteprime dei 
+\emph on
+Google Glasses
+\emph default
+, di cui parleremo tra poco.
  Il concetto è quello di poter compiere le principali azioni senza dover
  toccare il dispositivo, semplicemente dalla schermata principale è sufficiente
  pronunciare le parole “Ok Google” seguite da un comando vocale per effettuare
@@ -3435,17 +5086,24 @@ La prima grande novità, che fa da fiore all’occhiello alla presentazione
 \end_layout
 
 \begin_layout Standard
-La funzionalità fast app-switching (detta multitasking) è stata resa più
- performante per rendere pià responsivi e accurati i touch sul display,
- così come è stata ottimizzata la memoria per poter riprodurre la musica
- mentre si sta navigando col browser senza dover assistere ad alcun rallentament
-o.
+La funzionalità fast app-switching, comunemente detta multitasking, è stata
+ resa più performante per rendere più responsivi e accurati i touch dell'utente
+ sul display, così come è stata ottimizzata la memoria per poter riprodurre
+ la musica mentre si sta navigando col browser senza dover assistere ad
+ alcun rallentamento.
 \end_layout
 
 \begin_layout Standard
-Come già visto per iOS 7, anche nel caso di Android 4.4 le parole chiave
- sono semplicità e pulizia in ogni angolo del sistema operativo, allo scopo
- di rendere l’esperienza utente sempre più gradevole e funzionale.
+Come già visto per 
+\emph on
+iOS 7
+\emph default
+, anche nel caso di 
+\emph on
+Android 4.4
+\emph default
+ le parole chiave sono semplicità e pulizia in ogni angolo del sistema operativo
+, allo scopo di rendere l’esperienza utente sempre più gradevole e funzionale.
  Ogni applicazione è rivista in quest’ottica, ad esempio la rubrica contatti
  che assegna priorità alle persone con cui l’utente interagisce più frequentemen
 te.
@@ -3454,21 +5112,38 @@ te.
 \begin_layout Standard
 L’integrazione tra le varie funzionalità è percepibile un po’ ovunque: la
  messaggistica non è più suddivisa tra le varie app ma tutta nello stesso
- posto, SMS e Hangouts sono sistemi differenti all’interno della medesima
- interfaccia, le telefonate da un numero sconosciuto subiscono un tentativo
- di riconoscimento del chiamante grazie ad una serie di attività memorizzate
- sulle quali si cerca di carpirne il nome, la lettura dei libri in modalità
- fullscreen permette la completa immersione nell’attività stessa di lettura
- come se si stesse leggendo un libro, anche le Emoji emoticons sono state
- integrate direttamente nella tastiera per averle a disposizione ovunque,
- anche nelle emails.
+ posto, SMS e 
+\emph on
+Hangouts
+\emph default
+ sono sistemi differenti all’interno della medesima interfaccia, le telefonate
+ da un numero sconosciuto subiscono un tentativo di riconoscimento del chiamante
+ grazie ad una serie di attività memorizzate sulle quali si cerca di carpirne
+ il nome, la lettura dei libri in modalità fullscreen permette la completa
+ immersione nell’attività stessa di lettura come se si stesse leggendo un
+ libro e anche le 
+\emph on
+Emoji
+\emph default
+ emoticons sono state integrate direttamente nella tastiera per averle a
+ disposizione ovunque, anche nelle emails.
 \end_layout
 
 \begin_layout Standard
-A seguire l’integrazione con Google Drive per lo storage e per la sezione
- Documents con tutta la suite di web app dedicate, la possibilità di stampare
- tramite Google Cloud Print e un sacco di altre funzionalità più o meno
- tecniche.
+A seguire l’integrazione con 
+\emph on
+Google Driv
+\emph default
+e per lo storage e per la sezione 
+\emph on
+Documents
+\emph default
+ con tutta la suite di web app dedicate, la possibilità di stampare tramite
+ 
+\emph on
+Google Cloud Print
+\emph default
+ e un sacco di altre funzionalità più o meno tecniche.
  Attualmente, sotto il punto di vista delle possibilità, dell’elasticità
  e della licenza con cui viene rilasciato, è probabilmente il più adattabile
  a qualsiasi necessità tra i sistemi operativi per smartphones e tablets
@@ -3485,34 +5160,59 @@ Nuove fondazioni, sistemi operativi e piattaforme
 
 \begin_layout Standard
 Nonostante il percorso analizzato non sia esaustivo a causa della moltitudine
- di sistemi operativi minori, derivati e work-in-progress mai pubblicati
- che esistono sul panorama mondiale dei sistemi operativi in ambito mobile,
- che non comprende solamente smartphones e tablets ma un sacco di altri
- dispositivi tra cui gli in-vehicle/in-car, abbiamo potuto riscontrare come
- sia l’ambiente open-source che quello non open-source abbia in vigore una
- serie di sistemi operativi molto evoluti e al passo coi tempi da sfoggiare
- sui dispositivi più acclamati del momento.
+ di sistemi operativi minori, derivati e 
+\emph on
+work in progress
+\emph default
+ mai pubblicati che esistono sul panorama mondiale dei sistemi operativi
+ in ambito mobile, che non comprende solamente smartphones e tablets ma
+ un sacco di altri dispositivi tra cui gli in-vehicle/in-car, abbiamo potuto
+ riscontrare come sia l’ambiente open-source che quello non open-source
+ abbia in vigore una serie di sistemi operativi molto evoluti e al passo
+ coi tempi da sfoggiare sui dispositivi più acclamati del momento.
 \end_layout
 
 \begin_layout Standard
 Tra questi prendono piede anche nuovi dispositivi e sistemi operativi che,
  in qualche modo e ognuno a modo suo, cercano di integrare qualcosa in più
- per poter andare ad aggiungere alla rosa dei dispositivi e sistemi operativi
+ per poter andare ad aggiungersi alla rosa dei dispositivi e sistemi operativi
  al top della gamma.
 \end_layout
 
 \begin_layout Paragraph
-Jolla
+Sailfish OS
 \end_layout
 
 \begin_layout Standard
-Ad esempio Jolla Oy, comunemente denominata Jolla Mobile, è un’azienda finlandes
-e fondata il 29 Marzo 2011 specializzata in sistemi operativi per dispositivi
- mobile.
- Attualmente sta sviluppando un dispositivo denominato Sailfish OS che altro
- non è che un derivato di due progetti open-source quali MeeGo e Mer.
+Ad esempio 
+\emph on
+Jolla Oy
+\emph default
+, comunemente denominata 
+\emph on
+Jolla Mobile
+\emph default
+, è un’azienda finlandese fondata il 29 Marzo 2011 specializzata in sistemi
+ operativi per dispositivi mobile.
+ Attualmente sta sviluppando un sistema operativo denominato 
+\emph on
+Sailfish OS
+\emph default
+ che altro non è che un derivato di due progetti open-source quali 
+\emph on
+MeeGo
+\emph default
+ e 
+\emph on
+Mer
+\emph default
+.
  Stando a quanto dichiarato, inoltre, i dispositivi Jolla permetteranno
- l’installazione e l’esecuzione della maggior parte delle applicazioni Android.
+ l’installazione e l’esecuzione della maggior parte delle applicazioni 
+\emph on
+Android
+\emph default
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -3520,22 +5220,60 @@ Ubuntu Touch
 \end_layout
 
 \begin_layout Standard
-Parallelamente anche Canonical, l’azienda inglese nota per lo sviluppo e
- il mantenimento del sistema operativo per desktop Ubuntu, ha in cantiere
- un progetto denominato Ubuntu Touch orientato principalmente ai dispositivi
- smartphones e tablets.
+Parallelamente anche 
+\emph on
+Canonical
+\emph default
+, l’azienda inglese nota per lo sviluppo e il mantenimento del sistema operativo
+ per desktop 
+\emph on
+Ubuntu
+\emph default
+, ha in cantiere un progetto denominato 
+\emph on
+Ubuntu Touch
+\emph default
+ orientato principalmente ai dispositivi smartphones e tablets.
  Il 31 Ottobre 2011, Mark Shuttleworth ha dichiarato che a partire dalla
- versione 14.04, che verrà rilasciata nell’Aprile del 2014, Ubuntu supporterà
- anche smartphones, tablets, TVs e smart screens.
- La Developer Preview di Ubuntu Touch è stata rilasciata il 21 Febbraio
- 2013.
+ versione 14.04, che verrà rilasciata nell’Aprile del 2014, 
+\emph on
+Ub
+\emph default
+untu supporterà anche smartphones, tablets, smart TVs e smart screens.
+ La 
+\emph on
+Developer Preview
+\emph default
+ di 
+\emph on
+Ubuntu Touch
+\emph default
+ è stata rilasciata il 21 Febbraio 2013.
 \end_layout
 
 \begin_layout Standard
 Il sistema utilizza una grande quantità di software sviluppati inizialmente
- per MeeGo e e Maemo e supporta anche i kernel Linux utilizzati per Android,
- il che renderà molto più semplice portare il sistema operativo di Canonical
- su dispositivi nati per supportare Android.
+ per 
+\emph on
+MeeGo
+\emph default
+ e e 
+\emph on
+Maemo
+\emph default
+ e supporta anche i kernel Linux utilizzati per 
+\emph on
+Android
+\emph default
+, il che renderà molto più semplice portare il sistema operativo di 
+\emph on
+Canonical
+\emph default
+ su dispositivi nati per supportare 
+\emph on
+Android
+\emph default
+.
  La principale peculiarità di questo sistema operativo è che, essendo sviluppato
  sulla stessa tecnologia della versione desktop, potrà cambiare completmente
  aspetto nel momento in cui venisse adagiato nella propria dock station,
@@ -3545,10 +5283,26 @@ Il sistema utilizza una grande quantità di software sviluppati inizialmente
 \begin_layout Standard
 I sistemi con questa tipologia di peculiarità, denominati “superphone” e
  che supportano la piena convergenza all’aspetto desktop, sono stati pensati
- con una CPU a quattro core su architettura ARM o Intel Atom, 1 GB minimo
- di RAM e 32 GB minimo di memoria flash interna più il supporto ad una SD.
+ con una CPU a quattro core su architettura 
+\emph on
+ARM
+\emph default
+ o 
+\emph on
+Intel Atom
+\emph default
+, 1 GB minimo di RAM e 32 GB minimo di memoria flash interna più il supporto
+ ad una SD.
  La versione tablet avrà requisiti ancora maggiori in una versione più semplice
- ed una più complessa, rispettivamente consumer ed enterprise.
+ ed una più complessa, rispettivamente 
+\emph on
+consumer
+\emph default
+ ed 
+\emph on
+enterprise
+\emph default
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -3557,24 +5311,40 @@ Fairphone
 
 \begin_layout Standard
 Sul finale del 2013 la fondazione olandese nata nel Marzo del 2011, spedisce
- la prima parte della edizione del dispositivo omonimo riprodotto in soli
- 25 mila esemplari venduti in pre-ordine.
+ la prima parte degli esemplari della prima edizione del dispositivo omonimo
+ riprodotto in soli 25 mila unità e vendute in preordine.
  La peculiarità di questo dispositivo è che è stato prodotto esclusivamente
  in condizioni di equità: i minerali, specialmente la Columbite-tantalite,
- provengonoo da miniere che non sono controllate dai signori della guerra
+ provengono da miniere che non sono controllate dai signori della guerra
  civile che sta devastando la regione del Congo.
  In altre parole la fondazione si impegna ad utilizzare il più possibile
  componenti provenienti da un commercio equo e solidale e gli sviluppatori
  collaborano con varie organizzazioni no-profit per rispettare più possibile
- l’obiettivo prefissato
+ l’obiettivo prefissato.
 \end_layout
 
 \begin_layout Standard
-Per quanto riguarda il sistema operativo il dispositivo è stavo rilasciato
- con Android 4.2 Jelly Bean con supporto dual-sim poiché il più maturo e
- aperto in circolazione, ma viene data libertà totale di effettuare operazioni
- di root e, in futuro, verrà garantito il supporto con alcuni dispositivi
- trattati in precedenza quali Firefox OS, Ubuntu Touch e Jolla.
+Per quanto riguarda il sistema operativo il dispositivo è stato rilasciato
+ con 
+\emph on
+Android 4.2 Jelly Bean
+\emph default
+ con supporto dual-sim poiché il più maturo e aperto in circolazione, ma
+ viene data libertà totale di effettuare operazioni di root e, in futuro,
+ verrà garantito il supporto con alcuni dispositivi trattati in precedenza
+ quali 
+\emph on
+Firefox OS
+\emph default
+, 
+\emph on
+Ubuntu Touch
+\emph default
+ e 
+\emph on
+Sailfish OS
+\emph default
+.
 \end_layout
 
 \begin_layout Subsection
@@ -3599,24 +5369,51 @@ Ogni giorno che passa ci avviciniamo e ci addentriamo sempre più a fondo
  mobile, non solo smartphones e tablets ma computers dual-os che diventano
  tablet, orologi integrati con lo smartphones, occhialini per la realtà
  aumentata, in-vehicle assistants e molto altro.
- Siamo nell’era del wearable, ossia caratterizzata dai dispositivi indossabili
- che rendono possibile la connessione tra persone e oggetti.
+ Siamo nell’era del 
+\emph on
+wearable
+\emph default
+, ossia caratterizzata dai dispositivi indossabili che rendono possibile
+ la connessione tra persone e oggetti.
  Grazie a sensori, social networks e applicazioni, si aprono le porte per
  una terza era dei computers dove la realtà aumentata e l’esperienza utente
  nell’ecosistema reale sono al centro di tutto.
 \end_layout
 
 \begin_layout Standard
-Un esempio per tutti la nota app Runastic, praticamente un motivatore personale
- che tiene traccia di tutta l’attività fisica che viene effettuata.
+Un esempio per tutti la nota app 
+\emph on
+Runastic
+\emph default
+, praticamente un motivatore personale che tiene traccia di tutta l’attività
+ fisica che viene effettuata.
  Un coach a portata di mano che non è realmente a portata di mano, fintanto
  che è dentro ad uno smartphone.
  Ma quali sarebbero le evoluzioni se potesse, ad esempio, essere integrata
  in un orologio da polso? Non è sicuramente fantascienza, considerato che
- Sony e Samsung producono già da tempo rispettivamente SmartWatch e Galaxy
- Gear, orologi da polso con sistema operativo Android, con i quali è possibile
- rispondere al telefono senza toccare fisicamente lo smartphone, leggere
- le notifiche dei propri social network preferiti e molto altro.
+ 
+\emph on
+Sony
+\emph default
+ e 
+\emph on
+Samsung
+\emph default
+ producono già da tempo rispettivamente 
+\emph on
+SmartWatch
+\emph default
+ e 
+\emph on
+Galaxy Gear
+\emph default
+, orologi da polso con sistema operativo 
+\emph on
+Android
+\emph default
+, con i quali è possibile rispondere al telefono senza toccare fisicamente
+ lo smartphone, leggere le notifiche dei propri social network preferiti
+ e molto altro.
 \end_layout
 
 \begin_layout Standard
@@ -3631,16 +5428,22 @@ Google Glasses
 \end_layout
 
 \begin_layout Standard
-I Google Glasses sono un ottimo esempio di come questa tecnologia renderà
- più agile la fruizione delle informazioni e l’utilizzo dei dispositivi
- nella quotidianità; con quotidianità si intende anche i momenti in cui
- si stanno vivendo, ad esempio, gli spostamenti in automobile o in scooter.
- Sul display dei Glasses compaiono le notifiche, gli SMS in anteprima e
- le telefonate.
- Pertanto, è possibile essere al corrente di chi ci sta cercando, nel caso
- di un SMS sapere anhce in anteprima qual è il contenuto e di rispondere
- ad una telefonata semplicemente ordinandolo con un comando vocale agli
- occhiali.
+I 
+\emph on
+Google Glasses
+\emph default
+ sono un ottimo esempio di come questa tecnologia renderà più agile la fruizione
+ delle informazioni e l’utilizzo dei dispositivi nella quotidianità; con
+ quotidianità si intende anche i momenti in cui si stanno vivendo, ad esempio,
+ gli spostamenti in automobile o in scooter.
+ Sul display dei 
+\emph on
+Glasses
+\emph default
+ compaiono le notifiche, gli SMS in anteprima e le telefonate; pertanto,
+ è possibile essere al corrente di chi ci sta cercando, conoscere in anteprima
+ il contenuto di un SMS e rispondere ad una telefonata semplicemente ordinandolo
+ con un comando vocale agli occhiali.
 \end_layout
 
 \begin_layout Standard
@@ -3653,20 +5456,22 @@ Internet of Things
 \end_layout
 
 \begin_layout Standard
-Con queste tecnologie abilitanti sotto certi punti di vista e che ci rendono
- sempre più connessi, sotto altri punti di vista, quel che sta accadendo
- è che siamo orientati alla trasformazione dell’essere umano in dispositivo,
- un dispositivo costantemente connesso al mondo virtuale grazie a connessioni
- sempre più umane.
+Con queste tecnologie che ci rendono sempre più connessi e abilitanti sotto
+ certi punti di vista, quel che sta accadendo è che siamo orientati alla
+ trasformazione dell’essere umano in dispositivo, un dispositivo costantemente
+ connesso al mondo virtuale grazie a connessioni sempre più umane.
 \end_layout
 
 \begin_layout Standard
-Questo paradossale connubio inserisce l’essere umano nel contesto dell’Internet
- of Things in maniera naturale, umana e graduale, che ci porterà ad essere
- l’elemento attivo di un ecosistema integrato e connesso senza precedenti
- in quanto a opportunità, funzionalità e erogazione di servizi dall’ambito
- privato a quello professionale, grazie ai quali tempo, spazio e attività
- saranno ottimizzati per ottenere un’esperienza piacevole, naturale e avanzata
+Questo paradossale connubio inserisce l’essere umano nel contesto dell’
+\emph on
+Internet of Things
+\emph default
+ in maniera naturale, umana e graduale, che ci porterà ad essere l’elemento
+ attivo di un ecosistema integrato e connesso senza precedenti in quanto
+ a opportunità, funzionalità ed erogazione di servizi dall’ambito privato
+ a quello professionale, grazie ai quali tempo, spazio e attività saranno
+ ottimizzati per risultare in un’esperienza piacevole, naturale e avanzata
  sotto ogni aspetto della vita quotidiana.
 \end_layout
 
